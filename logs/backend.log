@@ -1,0 +1,1723 @@
+14/11/2022, 16:52:53 - INFO - Server is running on port: 3030 
+14/11/2022, 16:53:31 - INFO - Server is running on port: 3030 
+14/11/2022, 16:54:22 - DEBUG - auth.service - login with username: guest (sid: kuCIwVUxtlSS9ww9a-naSmrRtwkjYzBH)
+14/11/2022, 16:54:23 - INFO - Req from: guest (sid: kuCIwVUxtlSS9ww9a-naSmrRtwkjYzBH)
+14/11/2022, 16:54:55 - INFO - Req from: guest (sid: kuCIwVUxtlSS9ww9a-naSmrRtwkjYzBH)
+14/11/2022, 16:54:55 - DEBUG - Setting (x4r7Ftn_yK-l2dajAAAB) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 16:54:56 - INFO - Req from: guest (sid: kuCIwVUxtlSS9ww9a-naSmrRtwkjYzBH)
+14/11/2022, 16:57:08 - INFO - Server is running on port: 3030 
+14/11/2022, 17:00:45 - INFO - Server is running on port: 3030 
+14/11/2022, 17:00:51 - DEBUG - Setting (DVaFWXmlzSox2iFyAAAB) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 17:01:05 - DEBUG - Setting (f2WDSjA4jjNDeHcDAAAD) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 17:01:22 - DEBUG - Setting (cgsV6fXB047p9F2WAAAF) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 17:01:35 - DEBUG - Setting (YjzluFdizgdnvzsfAAAH) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 17:01:42 - DEBUG - Setting (nc721ZpPRDLR1TRvAAAJ) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 17:01:46 - DEBUG - Setting (q5u1t-MnHzIz2wB4AAAL) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 17:01:59 - DEBUG - auth.service - login with username: ron (sid: yCUX38WrtZDjQEdozpaR68wI_sq4tKxl)
+14/11/2022, 17:01:59 - ERROR - Failed to Login TypeError: Cannot read properties of null (reading 'password') (sid: yCUX38WrtZDjQEdozpaR68wI_sq4tKxl)
+14/11/2022, 17:02:06 - DEBUG - auth.service - login with username: ron (sid: yCUX38WrtZDjQEdozpaR68wI_sq4tKxl)
+14/11/2022, 17:02:07 - ERROR - Failed to Login TypeError: Cannot read properties of null (reading 'password') (sid: yCUX38WrtZDjQEdozpaR68wI_sq4tKxl)
+14/11/2022, 17:04:48 - DEBUG - Setting (vx4Eoe7YUeGlm31cAAAN) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 17:04:55 - DEBUG - Setting (aYcfpJavffHriDSPAAAP) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 17:05:56 - DEBUG - Setting (12350Rvi8ZmKjAYgAAAR) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 17:06:16 - DEBUG - Setting (aGwS7ZaUSc9HclTtAAAT) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 17:06:37 - DEBUG - Setting (PXh2QI3UULB4aGaJAAAV) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 17:07:11 - DEBUG - Setting (DQZmBn0Cod3OEPfzAAAX) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 17:07:17 - DEBUG - Setting (1M5aH5G7RSlC53kBAAAZ) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 17:07:53 - DEBUG - Setting (i2P4HCzprnVToOm-AAAb) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 17:08:51 - DEBUG - Setting (VEpaTcPp2ZN4f8InAAAd) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 17:10:27 - DEBUG - Setting (Yr1cGVUBHmb3S1RvAAAf) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 17:10:52 - DEBUG - Setting (htwwCuSH9ucx-In9AAAh) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 17:11:02 - DEBUG - Setting (IMbwd0lkODsa7P1WAAAj) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 17:12:14 - DEBUG - Setting (bpmz3Q7oTfRSwr2QAAAl) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 17:12:18 - DEBUG - Setting (hsFw-aOGis8FkFHyAAAn) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 17:13:02 - DEBUG - Setting (vTyMeW0_U3v_KEiiAAAp) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 17:13:35 - DEBUG - Setting (TExkQpAP69SVi6rYAAAr) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 17:15:33 - DEBUG - Setting (nAxn0zgbHabOeGf3AAAt) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 17:15:50 - DEBUG - Setting (O1khUERhb4DwT0QGAAAv) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 17:16:11 - DEBUG - Setting (3wrTcBoov4rKsVChAAAx) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 17:16:29 - DEBUG - Setting (-ZOQNOjr0uDUK0LXAAAz) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 17:16:43 - DEBUG - Setting (zeY8Y5gcAebFt0OlAAA1) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 17:19:14 - DEBUG - Setting (XgpacMa0XwSGG6EjAAA3) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 17:22:23 - DEBUG - Setting (lDo3KTKAuEox3J8zAAA9) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 17:23:09 - DEBUG - Setting (1pu9jtMWcMUz7K_WAAA_) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 17:23:57 - DEBUG - Setting (X-6Mvhmx0CWiQwibAABB) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 17:24:25 - DEBUG - Setting (RO_5RzYRIpHwvGC_AABD) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 17:29:37 - DEBUG - Setting (fVe1KkTWqztHUFXiAABF) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 17:31:49 - DEBUG - Setting (HIG_v60C6pT6PTQpAABH) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 17:32:13 - DEBUG - Setting (XSVR3XRcxP4TTLCAAABJ) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 17:32:14 - DEBUG - Setting (l9BA6z8orAwfRNbJAABL) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 17:32:22 - DEBUG - Setting (_7llcFNAxlviVVZGAABN) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 17:33:43 - DEBUG - Setting (H8y8jnbLLACrEo9tAABP) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 17:36:03 - DEBUG - Setting (onzFP6AWVFjqv40OAABR) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 17:37:16 - DEBUG - Setting (_A78ZWK4Lg1RbvDhAABT) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 17:37:44 - DEBUG - Setting (c6RCRReVU2WflXShAABV) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 17:38:06 - DEBUG - Setting (pf9wwZjeQYkZ0GnrAABX) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 17:38:41 - DEBUG - Setting (lY0n_ZghuvLRgjrUAABZ) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 17:38:50 - DEBUG - Setting (Xz1DgfyFtdtVz7KyAABb) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 17:39:12 - DEBUG - Setting (kpqe7JJPMYBJeqb-AABd) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 17:39:27 - DEBUG - Setting (8_oq9Ka9BPbyMnUzAABf) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 17:39:38 - DEBUG - Setting (LsxLv8ca-dt68tLEAABh) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 17:39:45 - DEBUG - Setting (8hMyaVjQ7sDlz_zAAABj) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 17:39:59 - DEBUG - Setting (28i7ZgJZILH9UJfsAABl) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 17:40:18 - DEBUG - Setting (uAb_jQxc6lQpBh61AABn) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 17:40:38 - DEBUG - Setting (0sgSFkm7_QJX0B3AAABp) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 17:41:01 - DEBUG - Setting (ceX2Im2amPQEyCGRAABr) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 17:41:22 - DEBUG - Setting (4EF0mVQW748lbPlIAABt) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 17:41:44 - DEBUG - Setting (vP2Tx6NGv4JfrsUqAABv) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 17:47:59 - DEBUG - Setting (4qHpHvVsYiA1UFMgAABx) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 17:48:28 - DEBUG - Setting (ylXXMDgHLEddpZvhAABz) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 17:48:54 - DEBUG - Setting (fnqIKanZ2MpZJ7EiAAB1) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 17:49:33 - DEBUG - Setting (PftUMglOdPGTW8BzAAB3) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 17:49:54 - DEBUG - Setting (BoOZrgVZd2yQVvBJAAB5) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 17:51:05 - DEBUG - Setting (urPEK28xhkjri63AAAB7) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 17:51:43 - DEBUG - Setting (xcWL5A8mvaPEVF0QAAB9) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 17:52:01 - DEBUG - Setting (x3x1YRcY4--KFEg_AAB_) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 17:52:47 - DEBUG - Setting (rBE28MXTUZyr1eeuAACB) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 17:53:34 - DEBUG - Setting (m8lXdB5t2-fDtY82AACD) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 17:54:12 - DEBUG - Setting (klk7c40kAWD-7wXDAACF) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 17:58:18 - DEBUG - Setting (l0yCtn8VbdqQTuE3AACH) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 17:58:53 - DEBUG - Setting (mU5Y-YudSEDh6Nk8AACJ) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 18:00:15 - DEBUG - Setting (hnttLnjccZH061IWAACL) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 18:01:52 - DEBUG - Setting (hIMnLtpROh1zoBYCAACN) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 18:02:15 - DEBUG - Setting (_1qrge7aC83MKd3QAACP) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 18:02:50 - DEBUG - Setting (Jv4n-BUPHr1MgHBNAACR) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 18:03:40 - DEBUG - Setting (c_VFZbyYvQignU2yAACT) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 18:04:20 - DEBUG - Setting (NaKkAhlAjZjISOa8AACV) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 18:04:32 - DEBUG - Setting (SGFPqg2qb2rCkCh2AACX) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 18:04:33 - DEBUG - Setting (kj4m0bPdDnYobetdAACZ) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 18:04:44 - DEBUG - Setting (KBj5eODUkjmJZhWRAACb) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 18:04:49 - DEBUG - Setting (I9u2JHg14wTdCMWZAACd) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 18:07:35 - DEBUG - Setting (uRuIMgUfmgc9AcqjAACf) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 18:09:42 - DEBUG - Setting (P2KWBCGBWNUathEyAACh) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 18:13:38 - DEBUG - Setting (pce7WOmCgnDCX7c3AACj) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 18:13:56 - DEBUG - Setting (dY1-ldCqgjHhZVQ1AACl) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 18:14:24 - DEBUG - Setting (8h3wfQlKIrD_Sit9AACn) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 18:15:35 - DEBUG - Setting (YpI3SZfO9UQL3b-JAACp) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 18:17:04 - DEBUG - Setting (nyP1duuJAz7wIbzXAACr) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 18:19:44 - DEBUG - Setting (roTl6YUtZFPCI9rQAACt) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 18:20:39 - DEBUG - Setting (Nr91GCSPrfnWXmy0AACv) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 18:21:20 - DEBUG - Setting (c4VaZKFUU1UL_bhbAACx) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 18:21:58 - DEBUG - Setting (EMcAgvLtUztRhjI3AACz) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 18:22:17 - DEBUG - Setting (lISmQw_707e5F9Q7AAC1) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 18:24:30 - DEBUG - Setting (InLJ3Jq48T-GvuKrAAC3) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 18:24:38 - DEBUG - Setting (b-pM93Dwv3DWRg88AAC5) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 18:25:19 - DEBUG - Setting (ILWCaxFoyOFkiBkZAAC7) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 18:26:28 - DEBUG - Setting (qsBZKDzjYawXlCF5AAC9) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 18:27:16 - DEBUG - Setting (O9MmGvzkPE7HcKEuAAC_) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 18:33:10 - DEBUG - Setting (zueHWf4ZLsE0hNvrAADB) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 18:40:20 - DEBUG - Setting (zueHWf4ZLsE0hNvrAADB) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 18:42:21 - DEBUG - Setting (Z-Li5VsILNQcVEmvAADD) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 18:43:42 - DEBUG - Setting (KbDeiXODW8_F8G3pAADF) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 18:45:27 - DEBUG - Setting (bWr5aZ_qMat3ypWyAADH) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 18:46:17 - DEBUG - Setting (T3EBdkA4l4lD6YZlAADJ) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 18:46:37 - DEBUG - Setting (uYCzw8a37Ps7Ya7LAADL) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 18:46:57 - DEBUG - Setting (BtjvYwdZG1Nd3XFCAADN) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 18:47:27 - DEBUG - Setting (Ma-gJs7sM1eXE0HdAADP) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 18:48:28 - DEBUG - Setting (SOW3iBBN8iTy0Ln6AADR) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 18:49:13 - DEBUG - Setting (H_RMzuK125tZDppxAADT) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 18:50:37 - DEBUG - Setting (HcmddHugwJ8-mnxGAADV) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 18:51:08 - DEBUG - Setting (KMgD_1X7Mq-k7fG4AADX) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 18:51:19 - DEBUG - Setting (khNCv_bDkWWrmIn6AADZ) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 18:51:26 - DEBUG - Setting (eEpoT1R52bCbPW44AADb) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 18:51:54 - DEBUG - Setting (0jX3n9SZ56ZSUmAXAADd) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 18:52:29 - DEBUG - Setting (xBxvzeBUSX9jc7qcAADf) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 18:52:51 - DEBUG - Setting (x__h34GcVcCLo3JvAADh) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 18:52:55 - DEBUG - Setting (8V_EgNXN30pCQ6IkAADj) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 18:53:48 - DEBUG - Setting (YaDnBZyf8h-0UmnfAADl) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 18:55:00 - DEBUG - Setting (QtrwgwpqP6KKdpwWAADn) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 18:55:24 - DEBUG - Setting (wSEVywVBjpLDl8UtAADp) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 18:55:38 - DEBUG - Setting (fVTlP-vidqHs9RCMAADr) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 18:55:54 - DEBUG - Setting (gVQyS1cXhlBd_zJSAADt) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 18:56:02 - DEBUG - Setting (fx7vWmoSMmlGwp_UAADv) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 18:56:53 - DEBUG - Setting (Ek5Zwg_KxnA9OmOLAADx) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 18:57:21 - DEBUG - Setting (cxnVK2sQcMegmauCAADz) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 18:57:41 - DEBUG - Setting (kHqOcXso-YcZ3n-KAAD1) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 18:57:57 - DEBUG - Setting (26-C_17Rs9WPlpsfAAD3) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 18:58:16 - DEBUG - Setting (k65tmH1SZauYGXsfAAD5) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 18:58:54 - DEBUG - Setting (1NCzlf-XW68p6bq-AAD7) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 18:59:09 - DEBUG - Setting (yyvBlWS1Se2vZ8odAAD9) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 19:01:59 - DEBUG - Setting (RpjiiyKk8U18ILPTAAD_) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 19:03:00 - DEBUG - Setting (-AB36fteSkKVxa2ZAAEB) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 19:07:35 - DEBUG - Setting (VQxTmN8qnJcP9f6gAAED) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 19:07:42 - DEBUG - Setting (78lUFdo5Vx-M3NWNAAEF) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 19:07:58 - DEBUG - Setting (iOHCy-Za_piAIZYVAAEH) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 19:19:14 - DEBUG - Setting (aA3M80_o3DGVVuH2AAEJ) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 19:19:22 - DEBUG - Setting (VYhVpq0Hb_EDj6XeAAEL) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 19:20:30 - DEBUG - Setting (Wz97-u_9iAIgaEehAAEN) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 19:23:24 - DEBUG - Setting (fHNZokGCju2tjg0oAAEP) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 19:23:59 - DEBUG - Setting (EMOcY1hVi7JNaI_8AAER) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 19:24:38 - DEBUG - Setting (xtM337Rc8PyifhM_AAET) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 19:25:58 - DEBUG - Setting (374geIUsmiELd0fxAAEV) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 19:27:07 - DEBUG - Setting (76XvRz-DLNWsVL3AAAEX) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 19:27:18 - DEBUG - Setting (I-zJbAPHP5WPRnGFAAEZ) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 19:28:22 - DEBUG - Setting (6rzaHmqbZ2FxSiu8AAEb) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 19:29:29 - DEBUG - Setting (ldAm0a8RvrPu5ZrvAAEd) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 19:30:17 - DEBUG - Setting (6MeOHvoT7lz3tcy8AAEf) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 19:31:16 - DEBUG - Setting (_GPRB9rsRCfXiKhMAAEh) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 19:31:41 - DEBUG - Setting (-EhgO8pxZ3MTHWicAAEj) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 19:32:07 - DEBUG - Setting (6C_ubPXFlS6vY8lQAAEl) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 19:32:36 - DEBUG - Setting (Z2zro0R1MhrO4gtVAAEn) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 19:32:56 - DEBUG - Setting (CpGIrPM6qQ4Us8zJAAEp) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 19:33:52 - DEBUG - Setting (6Sd7s4TC5VKZpux4AAEr) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 19:34:20 - DEBUG - Setting (dF_iDX6q53hN05cPAAEt) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 19:34:46 - DEBUG - Setting (il69VVTf2v7SFo35AAEv) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 19:34:49 - DEBUG - Setting (il69VVTf2v7SFo35AAEv) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 19:37:47 - DEBUG - Setting (n5l4jiZSiESg95h5AAEx) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 19:38:27 - DEBUG - Setting (Lstt_5QA0eDRQc9PAAEz) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 19:38:49 - DEBUG - Setting (MbmgCa38lfuUBuGcAAE1) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 19:39:01 - DEBUG - Setting (MbmgCa38lfuUBuGcAAE1) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 19:39:04 - DEBUG - Setting (MbmgCa38lfuUBuGcAAE1) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 19:39:08 - DEBUG - Setting (MbmgCa38lfuUBuGcAAE1) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 19:39:10 - DEBUG - Setting (MbmgCa38lfuUBuGcAAE1) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 19:39:13 - DEBUG - Setting (0NP4rp-Ncv2SRjkNAAE3) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 19:39:13 - DEBUG - Setting (0NP4rp-Ncv2SRjkNAAE3) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 19:39:16 - DEBUG - Setting (As5P20533ATMutJjAAE5) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 19:39:20 - DEBUG - Setting (As5P20533ATMutJjAAE5) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 19:39:31 - DEBUG - Setting (As5P20533ATMutJjAAE5) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 19:39:34 - DEBUG - Setting (qtHC_oIXqotAFmr7AAE7) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 19:41:39 - DEBUG - Setting (4z7Ap4Dj5gylF3tqAAE9) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 19:42:20 - DEBUG - Setting (MaE81s8ppFg9bCZRAAE_) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 19:42:50 - DEBUG - Setting (etqo3bNO-pGiQieoAAFB) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 19:45:13 - DEBUG - Setting (i2YnVu5khOksj6_CAAFD) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 19:45:24 - DEBUG - Setting (VV3i-da40Q_ZPv64AAFF) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 19:45:41 - DEBUG - Setting (ipxXP2B-YPigh_BAAAFH) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 19:45:56 - DEBUG - Setting (zEoUxRDdFwQj6graAAFJ) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 19:46:52 - DEBUG - Setting (G2ULyNfkHSjwbd1iAAFL) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 19:46:55 - DEBUG - Setting (TFDT2sJvT2qv08kGAAFN) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 19:47:02 - DEBUG - Setting (PuQP1gUUhhdxSQe5AAFP) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 19:47:17 - DEBUG - Setting (ymUjCVDs1bKJyaTFAAFR) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 19:47:45 - DEBUG - Setting (S2VwddfqAuOz4wkpAAFT) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 19:48:53 - DEBUG - Setting (WliHUknCT4cthaMlAAFV) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 19:51:15 - DEBUG - Setting (qiDnbdu4FYPeP0hKAAFX) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 19:54:48 - DEBUG - Setting (1Nk1fW-Ew23oJVhdAAFZ) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 19:54:50 - DEBUG - Setting (1Nk1fW-Ew23oJVhdAAFZ) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 19:54:53 - DEBUG - Setting (1Nk1fW-Ew23oJVhdAAFZ) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 19:54:56 - DEBUG - Setting (1Nk1fW-Ew23oJVhdAAFZ) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 19:55:00 - DEBUG - Setting (1Nk1fW-Ew23oJVhdAAFZ) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 19:55:14 - DEBUG - Setting (1Nk1fW-Ew23oJVhdAAFZ) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 19:55:20 - DEBUG - Setting (1Nk1fW-Ew23oJVhdAAFZ) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 19:55:27 - DEBUG - Setting (1Nk1fW-Ew23oJVhdAAFZ) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 19:55:29 - DEBUG - Setting (1Nk1fW-Ew23oJVhdAAFZ) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 19:55:38 - DEBUG - Setting (1Nk1fW-Ew23oJVhdAAFZ) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 19:57:25 - DEBUG - Setting (cY0g6Puv2oWi1_crAAFb) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 20:02:39 - DEBUG - Setting (gpi9k2oLZBaAGoLiAAFd) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 20:03:34 - DEBUG - Setting (nMkmkiua02gFyG6CAAFf) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 20:03:52 - DEBUG - Setting (Knse8WSyfWV_fC-JAAFh) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 20:05:15 - DEBUG - Setting (GpxgwQQsjhDYhGxkAAFj) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 20:05:30 - DEBUG - Setting (3jc3-nm9qD93OtwLAAFl) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 20:06:45 - DEBUG - Setting (3jc3-nm9qD93OtwLAAFl) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 20:07:05 - DEBUG - Setting (3jc3-nm9qD93OtwLAAFl) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 20:07:48 - DEBUG - Setting (3jc3-nm9qD93OtwLAAFl) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 20:07:51 - DEBUG - Setting (3jc3-nm9qD93OtwLAAFl) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 20:07:54 - DEBUG - Setting (3jc3-nm9qD93OtwLAAFl) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 20:09:03 - DEBUG - Setting (3jc3-nm9qD93OtwLAAFl) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 20:19:42 - DEBUG - Setting (m-5VQH43jtSonuYJAAFn) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 20:19:51 - DEBUG - Setting (m-5VQH43jtSonuYJAAFn) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 20:20:23 - DEBUG - Setting (m-5VQH43jtSonuYJAAFn) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 20:20:27 - DEBUG - Setting (m-5VQH43jtSonuYJAAFn) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 20:20:32 - DEBUG - Setting (aSYiF8BYXKG3po5hAAFp) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 20:20:42 - DEBUG - Setting (aSYiF8BYXKG3po5hAAFp) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 20:20:51 - DEBUG - Setting (aSYiF8BYXKG3po5hAAFp) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 20:21:04 - DEBUG - Setting (H_jH7dQuDU8zTbBxAAFr) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 20:22:05 - DEBUG - Setting (H_jH7dQuDU8zTbBxAAFr) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 20:22:12 - DEBUG - Setting (H_jH7dQuDU8zTbBxAAFr) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 20:23:07 - DEBUG - Setting (H_jH7dQuDU8zTbBxAAFr) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 20:23:09 - DEBUG - Setting (H_jH7dQuDU8zTbBxAAFr) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 20:23:12 - DEBUG - Setting (H_jH7dQuDU8zTbBxAAFr) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 20:26:54 - DEBUG - Setting (H_jH7dQuDU8zTbBxAAFr) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 20:26:57 - DEBUG - Setting (H_jH7dQuDU8zTbBxAAFr) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 20:27:24 - DEBUG - Setting (H_jH7dQuDU8zTbBxAAFr) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 20:27:35 - DEBUG - Setting (5oABPfdORXDctv-dAAFt) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 20:27:36 - DEBUG - Setting (5oABPfdORXDctv-dAAFt) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 20:30:24 - DEBUG - Setting (DsBWsq6tja_SycbHAAFv) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 20:33:45 - DEBUG - Setting (vAK7i_pQjUwHEFxRAAFx) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 20:34:18 - DEBUG - Setting (4vk47wWoQ7tqszXOAAFz) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 20:34:48 - DEBUG - Setting (cWYYygDfd5hbg9sWAAF1) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 20:35:04 - DEBUG - Setting (Qde9UmCqc7LkKAlzAAF3) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 20:35:28 - DEBUG - Setting (TcKNQR2QfNz2nqr1AAF5) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 20:35:53 - DEBUG - Setting (fWner5Er6k7H93gRAAF7) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 20:36:07 - DEBUG - Setting (eDzbqsyd2UkzdcTQAAF9) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 20:36:18 - DEBUG - Setting (laq4rEaNrm405RnHAAF_) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 20:36:23 - DEBUG - Setting (bcFlTEX7TgoCNpvMAAGB) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 20:36:33 - DEBUG - Setting (9NcG_PsOXbh8RMizAAGD) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 20:36:42 - DEBUG - Setting (Djg6BqiEwfLf-Ui8AAGF) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 20:37:08 - DEBUG - Setting (_eJsBAOWSXQLZb_NAAGH) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 20:37:23 - DEBUG - Setting (GQCusO1IZ7cu03nAAAGJ) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 20:37:59 - DEBUG - Setting (-Hk75J7R17T2aGLHAAGL) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 20:38:09 - DEBUG - Setting (xGsArFsmg7ibwXy6AAGN) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 20:38:22 - DEBUG - Setting (xGsArFsmg7ibwXy6AAGN) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 20:38:43 - DEBUG - Setting (p0HDyDwdPqICZXo_AAGP) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 20:38:43 - DEBUG - Setting (p0HDyDwdPqICZXo_AAGP) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 20:38:54 - DEBUG - Setting (p0HDyDwdPqICZXo_AAGP) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 20:38:58 - DEBUG - Setting (oKXhqPZge0i0LD2dAAGR) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 20:38:58 - DEBUG - Setting (oKXhqPZge0i0LD2dAAGR) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 20:39:03 - DEBUG - Setting (oKXhqPZge0i0LD2dAAGR) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 20:39:33 - DEBUG - Setting (oKXhqPZge0i0LD2dAAGR) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 20:42:13 - DEBUG - Setting (BnhVUIkASh8VEap_AAGT) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 20:43:39 - DEBUG - Setting (shyNvZbQdYIvczv0AAGV) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 20:43:47 - DEBUG - Setting (in8lvKN0UabgZtYaAAGX) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 20:43:55 - DEBUG - Setting (XrtLo0ZrD5u_MhTYAAGZ) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 20:44:19 - DEBUG - Setting (ai5NL5eJLjm65r0hAAGb) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 20:44:56 - DEBUG - Setting (fiGVujI-5Ywcq_zKAAGd) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 20:45:08 - DEBUG - Setting (j-70Sve8lq0C4xgYAAGf) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 20:45:17 - DEBUG - Setting (sTkkiTIsozsL83BvAAGh) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 20:45:59 - DEBUG - Setting (CSj5QAMJGdajoYTSAAGj) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 20:46:37 - DEBUG - Setting (PxUR7UDJRiiOlVfQAAGl) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 20:48:04 - DEBUG - Setting (q0VYkg2cI7jbSuFPAAGn) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 20:53:20 - DEBUG - Setting (Uupnv7b5KCHBU8flAAGp) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 20:55:19 - DEBUG - Setting (QwnBQQyaXRoRfoFwAAGr) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 20:55:51 - DEBUG - Setting (KtN5gSrHoRwL7ddvAAGt) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 20:58:02 - DEBUG - Setting (74YR6MWv2qK7HRANAAGv) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 20:58:05 - DEBUG - Setting (ludcBdurQcv78F0yAAGx) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 20:58:07 - DEBUG - Setting (jN4BsCrq75PyaEwnAAGz) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 20:58:14 - DEBUG - Setting (bb5vadZso-1ED4yWAAG1) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 20:59:31 - DEBUG - Setting (qR8-v1Jw0kvAG_ArAAG3) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 20:59:39 - DEBUG - Setting (8ZAoKU7pNs1Z9xllAAG5) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 20:59:51 - DEBUG - Setting (0orcoxELHKsx2CBPAAG7) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 21:01:54 - DEBUG - Setting (MrA49CzAGIzQhPIVAAG9) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 21:02:41 - DEBUG - Setting (BHWHIV3S0xj9WJ_7AAG_) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 21:05:36 - DEBUG - Setting (27RzXIr6X01UIvN8AAHB) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 21:05:40 - DEBUG - Setting (7TSDJf9jS4fzhlA1AAHD) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 21:06:01 - DEBUG - Setting (f6x4-OfWkX0vxgYJAAHF) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 21:13:29 - DEBUG - Setting (N_pam1Mr6PnUhe-yAAHH) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 21:13:35 - DEBUG - Setting (Ms_84Orr_ieTh-LbAAHJ) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 21:16:11 - DEBUG - Setting (CySLN7lW2wG2iDisAAHL) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 21:20:36 - DEBUG - Setting (8J87atPFsVq-PSqrAAHN) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 21:39:35 - DEBUG - Setting (446sQGMbV0vRQ4NFAAHd) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 21:45:31 - DEBUG - Setting (yLVCDY7sUhQEYQH-AAH1) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 21:46:23 - DEBUG - Setting (yTCjeN3sHGIWZ64VAAH7) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 21:46:51 - DEBUG - Setting (qQUWkdSn0UbDujXcAAIB) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 21:47:13 - DEBUG - Setting (WPHcvJlVHh1oGWZlAAIH) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 21:47:27 - DEBUG - Setting (LIG7bN4iots_n3FDAAIR) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 22:08:31 - DEBUG - Setting (hhibh_wZ_7iq_qLyAAJP) socket.userId = 6247839623839f4ca483a374 
+14/11/2022, 22:21:39 - DEBUG - Setting (ccRrAMO9sKI6NPPyAAJl) socket.userId = 6247839623839f4ca483a374 
+15/11/2022, 14:20:52 - INFO - Server is running on port: 3030 
+15/11/2022, 14:36:21 - INFO - Server is running on port: 3030 
+15/11/2022, 17:16:13 - INFO - Server is running on port: 3030 
+15/11/2022, 17:18:19 - INFO - Server is running on port: 3030 
+15/11/2022, 17:20:07 - INFO - Server is running on port: 3030 
+15/11/2022, 17:24:15 - INFO - Server is running on port: 3030 
+15/11/2022, 17:24:32 - INFO - Server is running on port: 3030 
+15/11/2022, 17:25:44 - INFO - Server is running on port: 3030 
+15/11/2022, 17:25:52 - INFO - Server is running on port: 3030 
+15/11/2022, 17:25:57 - INFO - Server is running on port: 3030 
+15/11/2022, 17:26:19 - INFO - Server is running on port: 3030 
+15/11/2022, 17:33:19 - INFO - Server is running on port: 3030 
+16/11/2022, 16:48:00 - INFO - Server is running on port: 3030 
+16/11/2022, 19:42:14 - INFO - Server is running on port: 3030 
+16/11/2022, 19:57:46 - INFO - Server is running on port: 3030 
+16/11/2022, 19:57:55 - INFO - Server is running on port: 3030 
+16/11/2022, 20:03:48 - INFO - Server is running on port: 3030 
+16/11/2022, 20:04:20 - INFO - Server is running on port: 3030 
+16/11/2022, 20:05:06 - INFO - Server is running on port: 3030 
+16/11/2022, 20:05:41 - INFO - Server is running on port: 3030 
+16/11/2022, 20:06:28 - INFO - Server is running on port: 3030 
+16/11/2022, 20:06:44 - INFO - Server is running on port: 3030 
+16/11/2022, 20:06:47 - ERROR - Failed to signup ReferenceError: fullname is not defined (sid: pcE-4vtgf10DBryxO9KDCqSJ2Xne1Bmv)
+16/11/2022, 20:07:08 - INFO - Server is running on port: 3030 
+16/11/2022, 20:07:14 - ERROR - Failed to signup ReferenceError: fullname is not defined (sid: pjypzYWK4MXByPnp348JOpy6KXa3FBBL)
+16/11/2022, 20:07:19 - INFO - Server is running on port: 3030 
+16/11/2022, 20:07:56 - INFO - Server is running on port: 3030 
+16/11/2022, 20:07:57 - ERROR - Failed to signup ReferenceError: fullname is not defined (sid: qWXMrbURswVRhdmObBvcinj95vPuE5IA)
+16/11/2022, 20:09:31 - INFO - Server is running on port: 3030 
+16/11/2022, 20:09:34 - DEBUG - auth.service - signup with username: ron, fullname: undefined (sid: UoWmBrO_GxZs_I7Nhr7BIuEqF8kLFDl6)
+16/11/2022, 20:09:34 - ERROR - Failed to signup fullname, username and password are required! (sid: UoWmBrO_GxZs_I7Nhr7BIuEqF8kLFDl6)
+16/11/2022, 20:10:07 - INFO - Server is running on port: 3030 
+16/11/2022, 20:10:20 - INFO - Server is running on port: 3030 
+16/11/2022, 20:10:51 - DEBUG - ron shitrit, ron, 123 (sid: nGZ8T-U5bLaTfXTCXTilbyLmlp06Iu6H)
+16/11/2022, 20:10:51 - DEBUG - auth.service - signup with username: ron, fullname: ron shitrit (sid: nGZ8T-U5bLaTfXTCXTilbyLmlp06Iu6H)
+16/11/2022, 20:10:52 - ERROR - Failed to signup ReferenceError: fullName is not defined (sid: nGZ8T-U5bLaTfXTCXTilbyLmlp06Iu6H)
+16/11/2022, 20:11:44 - INFO - Server is running on port: 3030 
+16/11/2022, 20:11:46 - DEBUG - ron shitrit, ron, 123 (sid: SS8o4AKxzk8fdONNSv7KLy6USQfa0Xib)
+16/11/2022, 20:11:46 - DEBUG - auth.service - signup with username: ron, fullname: ron shitrit (sid: SS8o4AKxzk8fdONNSv7KLy6USQfa0Xib)
+16/11/2022, 20:11:47 - DEBUG - auth.route - new account created: {"username":"ron","password":"$2b$10$ItN9MWQfhqSAX2EG3sMgDuNxmznqaSGl9EVYC6rXNE3BUltM4lHRq","fullname":"ron shitrit","_id":"637527e3eda5392f181596b4"} (sid: SS8o4AKxzk8fdONNSv7KLy6USQfa0Xib)
+16/11/2022, 20:11:47 - DEBUG - auth.service - login with username: ron (sid: SS8o4AKxzk8fdONNSv7KLy6USQfa0Xib)
+16/11/2022, 20:12:26 - INFO - Server is running on port: 3030 
+16/11/2022, 20:12:44 - DEBUG - auth.service - login with username: ron (sid: 25gKwNE7IQjwtceIZfgFJcQt_Zpx-xTB)
+16/11/2022, 20:14:17 - DEBUG - auth.service - login with username: ron (sid: wfdO3LasNdxnWB2OszzOyMjTLrwDHQ5s)
+16/11/2022, 20:16:27 - DEBUG - auth.service - login with username: ron (sid: mCYql2ZdqpDHC2DR91ADdRdUleRztCFF)
+16/11/2022, 20:17:40 - DEBUG - auth.service - login with username: ron (sid: 5j1oiX1PQbmIwIz3PHBfBpaIAUdhgEXq)
+16/11/2022, 20:19:54 - INFO - Server is running on port: 3030 
+16/11/2022, 20:19:59 - INFO - Server is running on port: 3030 
+16/11/2022, 20:20:10 - DEBUG - ron shitrit, ron, 123 (sid: WXnv7iDmh6xRqkUMvP0kW4_ID7Hjq7Oe)
+16/11/2022, 20:20:10 - DEBUG - auth.service - signup with username: ron, fullname: ron shitrit (sid: WXnv7iDmh6xRqkUMvP0kW4_ID7Hjq7Oe)
+16/11/2022, 20:20:11 - ERROR - Failed to signup Username already taken (sid: WXnv7iDmh6xRqkUMvP0kW4_ID7Hjq7Oe)
+16/11/2022, 20:20:18 - DEBUG - auth.service - login with username: ron (sid: rS6IDwfLL960AhDu4xRMN9_4o6GWDZIA)
+16/11/2022, 20:21:36 - INFO - Server is running on port: 3030 
+16/11/2022, 20:21:47 - INFO - Server is running on port: 3030 
+16/11/2022, 20:23:08 - INFO - Server is running on port: 3030 
+16/11/2022, 20:23:14 - DEBUG - auth.service - login with username: ron (sid: 9U3WzRzXAV7O9TstWBzkEAZIWszUoRcX)
+16/11/2022, 20:27:14 - INFO - Server is running on port: 3030 
+16/11/2022, 20:27:16 - INFO - Server is running on port: 3030 
+16/11/2022, 20:27:19 - INFO - Server is running on port: 3030 
+16/11/2022, 20:27:27 - DEBUG - auth.service - login with username: ron (sid: oyu_VFLNTfa3clu4gHL2XWRrgSYpcnG_)
+16/11/2022, 20:28:06 - INFO - Server is running on port: 3030 
+16/11/2022, 20:28:12 - DEBUG - auth.service - login with username: ron (sid: rTVafiChG4mvRRItYT9IMzaleDM3Ig-9)
+16/11/2022, 20:32:37 - INFO - Server is running on port: 3030 
+16/11/2022, 20:32:43 - DEBUG - auth.service - login with username: ron (sid: 5h7LsTApKq9fHDY8sQQF2KR0G5Xj-LBy)
+16/11/2022, 20:33:41 - INFO - Server is running on port: 3030 
+16/11/2022, 20:33:48 - DEBUG - auth.service - login with username: ron (sid: RZ8MhfuuPbsLkuC71V_-dfLDrTri14S0)
+16/11/2022, 20:34:33 - INFO - Server is running on port: 3030 
+16/11/2022, 20:34:43 - DEBUG - auth.service - login with username: ron (sid: 7AeE5K53Ksfqh1Xyq6cdeN9mWThq_5Ip)
+16/11/2022, 20:35:30 - INFO - Server is running on port: 3030 
+16/11/2022, 20:35:44 - INFO - Server is running on port: 3030 
+16/11/2022, 20:35:55 - DEBUG - auth.service - login with username: ron 
+16/11/2022, 20:41:50 - INFO - Server is running on port: 3030 
+16/11/2022, 20:42:54 - INFO - Server is running on port: 3030 
+16/11/2022, 20:52:18 - INFO - Server is running on port: 3030 
+17/11/2022, 15:28:37 - INFO - Server is running on port: 3030 
+17/11/2022, 15:31:52 - DEBUG - auth.service - login with username: ron (sid: PPVezahXOtqdUwNxTZVpuzBAUJrQq0hJ)
+17/11/2022, 15:32:34 - DEBUG - auth.service - login with username: ron (sid: 68NQu2_I-7DU8Zhz08yi_lvavUE8lu6Q)
+17/11/2022, 15:33:55 - INFO - Server is running on port: 3030 
+17/11/2022, 15:34:16 - INFO - Server is running on port: 3030 
+17/11/2022, 15:34:25 - DEBUG - auth.service - login with username: ron (sid: ll5I1CiS_0Gz54xNyjC2GB2ani6LgtyG)
+17/11/2022, 15:37:40 - INFO - Server is running on port: 3030 
+17/11/2022, 15:37:58 - DEBUG - auth.service - login with username: ron (sid: 70PVT9WyJ8SCJl2gxxu92eiHGxGGekhW)
+17/11/2022, 15:39:17 - DEBUG - auth.service - login with username: ron (sid: Y53hTxClNENqZ-HZ5iffSjlByVnq3Klg)
+17/11/2022, 15:41:19 - DEBUG - auth.service - login with username: ron (sid: MjU9zVm5K5oniSx7i9W7kkgAOGWO9VXR)
+17/11/2022, 15:41:52 - DEBUG - auth.service - login with username: ron (sid: P4nL4TAMvhdTKSVO7ZPpYLwakpKfXG4a)
+17/11/2022, 15:42:59 - DEBUG - auth.service - login with username: ron (sid: mAX7gdOOng-GIqQtjwBCZDZ9BghCzCSc)
+17/11/2022, 15:43:52 - DEBUG - auth.service - login with username: guest (sid: NT7PC6Os80D2MpL8Oy4PtaEV0YMHlzIw)
+17/11/2022, 15:43:52 - ERROR - Failed to Login TypeError: Cannot read properties of null (reading 'password') (sid: NT7PC6Os80D2MpL8Oy4PtaEV0YMHlzIw)
+17/11/2022, 15:44:16 - DEBUG - auth.service - login with username: ron (sid: cp1ki5m4Ysx_IRScCMVtYPgjtJn9E55e)
+17/11/2022, 15:45:19 - DEBUG - auth.service - login with username: ron (sid: ZX7rhQo85QkRkyvjHgZSk-ueTQ27_Avg)
+17/11/2022, 15:46:16 - DEBUG - auth.service - login with username: ron (sid: 41CjrjzYBW1CTjvjZCzXZtBL889Z4qwN)
+17/11/2022, 15:46:47 - DEBUG - auth.service - login with username: ron (sid: 880Oio2dXj-blqj9sbO-CT68jd-FiovL)
+17/11/2022, 15:47:16 - INFO - Server is running on port: 3030 
+17/11/2022, 15:47:24 - DEBUG - auth.service - login with username: ron (sid: ok2WJUfmNj2NJfc_t2lMmCCvurkaHnIR)
+17/11/2022, 15:47:57 - INFO - Server is running on port: 3030 
+17/11/2022, 15:48:17 - INFO - Server is running on port: 3030 
+17/11/2022, 15:48:23 - DEBUG - auth.service - login with username: ron (sid: HzgR90Xi2e8t7cwdXR8waEynd7NcfEVo)
+17/11/2022, 15:48:44 - DEBUG - auth.service - login with username: ron (sid: cLL_sD49hsDw-xljRYBWjYS8hP2xUjW4)
+17/11/2022, 15:50:33 - INFO - Server is running on port: 3030 
+17/11/2022, 15:50:43 - DEBUG - auth.service - login with username: ron (sid: DlA39nqi3gY2-FqTBtBorx3PD7OhVQlS)
+17/11/2022, 15:51:08 - INFO - Server is running on port: 3030 
+17/11/2022, 15:51:24 - DEBUG - auth.service - login with username: ron (sid: 7P6AjC4mnXuyKnWa15twDFeiM24MJES2)
+17/11/2022, 15:54:43 - INFO - Server is running on port: 3030 
+17/11/2022, 15:54:52 - DEBUG - auth.service - login with username: ron (sid: 3xk_q8MNScbE4nrkxRL1ra7Qz4Zhl6Hb)
+17/11/2022, 15:54:58 - INFO - Server is running on port: 3030 
+17/11/2022, 15:55:50 - INFO - Server is running on port: 3030 
+17/11/2022, 15:56:00 - DEBUG - auth.service - login with username: ron (sid: wXOqTe6ypP7E8IKsDNBEKK349FibJMtl)
+17/11/2022, 15:56:35 - INFO - Server is running on port: 3030 
+17/11/2022, 15:56:42 - DEBUG - auth.service - login with username: ron (sid: kviBfRzhp5qG_aiqmO74JhYloimfftDV)
+17/11/2022, 15:56:51 - INFO - Server is running on port: 3030 
+17/11/2022, 16:00:08 - INFO - Server is running on port: 3030 
+17/11/2022, 16:05:49 - INFO - Server is running on port: 3030 
+17/11/2022, 16:06:54 - INFO - Server is running on port: 3030 
+17/11/2022, 16:06:56 - INFO - Server is running on port: 3030 
+17/11/2022, 16:07:12 - INFO - Server is running on port: 3030 
+17/11/2022, 16:10:01 - INFO - Server is running on port: 3030 
+17/11/2022, 16:10:42 - INFO - Server is running on port: 3030 
+17/11/2022, 16:10:47 - DEBUG - auth.service - login with username: ron (sid: 64YzGjmdxvt-mpCcVboeF4ZtZrbKJg0p)
+17/11/2022, 16:15:04 - DEBUG - auth.service - login with username: ron (sid: j140FIVDTyRY85yemhl8rlcyNw9xiW2Q)
+17/11/2022, 16:16:09 - DEBUG - auth.service - login with username: ron (sid: NwN3odPEUlk_SJkExnvMwqk2KgAoqlTu)
+17/11/2022, 16:20:12 - DEBUG - auth.service - login with username: ron (sid: 8k3b4hSOH6D8Rx65Zn1v92SGIAqxtnpT)
+17/11/2022, 16:22:40 - DEBUG - auth.service - login with username: ron (sid: duqpICWLWCykoMXJb0BehybnFmkqE-B4)
+17/11/2022, 16:23:11 - DEBUG - auth.service - login with username: ron (sid: 5JoXjmujR5PE4GfzA3WXyLmep0HhTWk4)
+17/11/2022, 16:45:32 - INFO - Server is running on port: 3030 
+17/11/2022, 16:45:41 - DEBUG - auth.service - login with username: ron (sid: WITK6LgSGDEZ471d-bOJ5RGfI4AWAMcr)
+17/11/2022, 16:45:47 - INFO - Server is running on port: 3030 
+20/11/2022, 17:31:05 - INFO - Server is running on port: 3030 
+20/11/2022, 17:31:52 - DEBUG - auth.service - login with username: ron (sid: j9bcsWUe3RKdd4lWR5VQ1yOj17ljJ0dO)
+20/11/2022, 17:32:37 - INFO - Server is running on port: 3030 
+20/11/2022, 17:33:52 - DEBUG - auth.service - login with username: ron (sid: SMVmOQj4Um_eVTknRDNbwt02UzGjhhBj)
+20/11/2022, 17:34:08 - INFO - Server is running on port: 3030 
+20/11/2022, 17:39:53 - INFO - Server is running on port: 3030 
+20/11/2022, 17:46:49 - DEBUG - auth.service - login with username: ron (sid: 8aWeW1MLa2mYB1YClixnKpMAUhj8QPJS)
+20/11/2022, 17:53:53 - INFO - Req from: ron shitrit (sid: 8aWeW1MLa2mYB1YClixnKpMAUhj8QPJS)
+20/11/2022, 17:57:04 - INFO - Req from: ron shitrit (sid: 8aWeW1MLa2mYB1YClixnKpMAUhj8QPJS)
+20/11/2022, 17:57:20 - INFO - Req from: ron shitrit (sid: 8aWeW1MLa2mYB1YClixnKpMAUhj8QPJS)
+20/11/2022, 18:01:53 - INFO - Req from: ron shitrit (sid: 8aWeW1MLa2mYB1YClixnKpMAUhj8QPJS)
+20/11/2022, 18:02:02 - INFO - Req from: ron shitrit (sid: 8aWeW1MLa2mYB1YClixnKpMAUhj8QPJS)
+20/11/2022, 18:03:13 - INFO - Req from: ron shitrit (sid: 8aWeW1MLa2mYB1YClixnKpMAUhj8QPJS)
+20/11/2022, 18:03:54 - INFO - Req from: ron shitrit (sid: 8aWeW1MLa2mYB1YClixnKpMAUhj8QPJS)
+20/11/2022, 18:03:56 - INFO - Req from: ron shitrit (sid: 8aWeW1MLa2mYB1YClixnKpMAUhj8QPJS)
+20/11/2022, 18:04:01 - INFO - Req from: ron shitrit (sid: 8aWeW1MLa2mYB1YClixnKpMAUhj8QPJS)
+20/11/2022, 18:04:01 - INFO - Req from: ron shitrit (sid: 8aWeW1MLa2mYB1YClixnKpMAUhj8QPJS)
+20/11/2022, 18:04:14 - INFO - Req from: ron shitrit (sid: 8aWeW1MLa2mYB1YClixnKpMAUhj8QPJS)
+20/11/2022, 18:04:15 - INFO - Req from: ron shitrit (sid: 8aWeW1MLa2mYB1YClixnKpMAUhj8QPJS)
+20/11/2022, 18:04:58 - INFO - Req from: ron shitrit (sid: 8aWeW1MLa2mYB1YClixnKpMAUhj8QPJS)
+20/11/2022, 18:05:00 - INFO - Req from: ron shitrit (sid: 8aWeW1MLa2mYB1YClixnKpMAUhj8QPJS)
+20/11/2022, 18:05:11 - INFO - Req from: ron shitrit (sid: 8aWeW1MLa2mYB1YClixnKpMAUhj8QPJS)
+20/11/2022, 18:05:25 - INFO - Req from: ron shitrit (sid: 8aWeW1MLa2mYB1YClixnKpMAUhj8QPJS)
+20/11/2022, 18:06:35 - INFO - Req from: ron shitrit (sid: 8aWeW1MLa2mYB1YClixnKpMAUhj8QPJS)
+20/11/2022, 18:07:10 - INFO - Req from: ron shitrit (sid: 8aWeW1MLa2mYB1YClixnKpMAUhj8QPJS)
+20/11/2022, 18:07:23 - INFO - Req from: ron shitrit (sid: 8aWeW1MLa2mYB1YClixnKpMAUhj8QPJS)
+20/11/2022, 18:09:09 - INFO - Req from: ron shitrit (sid: 8aWeW1MLa2mYB1YClixnKpMAUhj8QPJS)
+20/11/2022, 18:09:44 - INFO - Req from: ron shitrit (sid: 8aWeW1MLa2mYB1YClixnKpMAUhj8QPJS)
+20/11/2022, 18:10:17 - INFO - Req from: ron shitrit (sid: 8aWeW1MLa2mYB1YClixnKpMAUhj8QPJS)
+20/11/2022, 18:12:05 - INFO - Req from: ron shitrit (sid: 8aWeW1MLa2mYB1YClixnKpMAUhj8QPJS)
+20/11/2022, 18:12:44 - INFO - Req from: ron shitrit (sid: 8aWeW1MLa2mYB1YClixnKpMAUhj8QPJS)
+20/11/2022, 18:12:53 - INFO - Req from: ron shitrit (sid: 8aWeW1MLa2mYB1YClixnKpMAUhj8QPJS)
+20/11/2022, 18:12:57 - INFO - Req from: ron shitrit (sid: 8aWeW1MLa2mYB1YClixnKpMAUhj8QPJS)
+20/11/2022, 18:13:04 - INFO - Req from: ron shitrit (sid: 8aWeW1MLa2mYB1YClixnKpMAUhj8QPJS)
+20/11/2022, 18:39:20 - INFO - Req from: ron shitrit (sid: 8aWeW1MLa2mYB1YClixnKpMAUhj8QPJS)
+20/11/2022, 18:39:24 - INFO - Req from: ron shitrit (sid: 8aWeW1MLa2mYB1YClixnKpMAUhj8QPJS)
+20/11/2022, 18:39:29 - INFO - Req from: ron shitrit (sid: 8aWeW1MLa2mYB1YClixnKpMAUhj8QPJS)
+20/11/2022, 18:40:10 - INFO - Req from: ron shitrit (sid: 8aWeW1MLa2mYB1YClixnKpMAUhj8QPJS)
+20/11/2022, 18:40:43 - INFO - Req from: ron shitrit (sid: 8aWeW1MLa2mYB1YClixnKpMAUhj8QPJS)
+20/11/2022, 18:42:05 - INFO - Req from: ron shitrit (sid: 8aWeW1MLa2mYB1YClixnKpMAUhj8QPJS)
+20/11/2022, 18:42:49 - INFO - Req from: ron shitrit (sid: 8aWeW1MLa2mYB1YClixnKpMAUhj8QPJS)
+20/11/2022, 18:43:02 - INFO - Req from: ron shitrit (sid: 8aWeW1MLa2mYB1YClixnKpMAUhj8QPJS)
+20/11/2022, 18:44:01 - DEBUG - auth.service - login with username: ron (sid: 8aWeW1MLa2mYB1YClixnKpMAUhj8QPJS)
+20/11/2022, 18:44:01 - INFO - Req from: ron shitrit (sid: 8aWeW1MLa2mYB1YClixnKpMAUhj8QPJS)
+20/11/2022, 18:44:04 - INFO - Req from: ron shitrit (sid: 8aWeW1MLa2mYB1YClixnKpMAUhj8QPJS)
+20/11/2022, 18:45:05 - DEBUG - auth.service - login with username: ron (sid: 8aWeW1MLa2mYB1YClixnKpMAUhj8QPJS)
+20/11/2022, 18:45:05 - INFO - Req from: ron shitrit (sid: 8aWeW1MLa2mYB1YClixnKpMAUhj8QPJS)
+20/11/2022, 18:45:09 - INFO - Req from: ron shitrit (sid: 8aWeW1MLa2mYB1YClixnKpMAUhj8QPJS)
+20/11/2022, 18:45:31 - DEBUG - auth.service - login with username: ron (sid: 8aWeW1MLa2mYB1YClixnKpMAUhj8QPJS)
+20/11/2022, 18:45:31 - INFO - Req from: ron shitrit (sid: 8aWeW1MLa2mYB1YClixnKpMAUhj8QPJS)
+20/11/2022, 18:45:32 - INFO - Req from: ron shitrit (sid: 8aWeW1MLa2mYB1YClixnKpMAUhj8QPJS)
+20/11/2022, 18:45:45 - INFO - Server is running on port: 3030 
+21/11/2022, 15:19:58 - INFO - Server is running on port: 3030 
+21/11/2022, 15:20:10 - DEBUG - auth.service - login with username: ron (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 15:20:10 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 15:20:23 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 15:23:01 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 15:23:15 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 15:23:16 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 15:23:18 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 15:23:20 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 15:23:22 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 15:23:23 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 15:30:40 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 15:30:55 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 15:34:15 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 15:34:28 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 15:34:30 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 15:34:45 - DEBUG - auth.service - login with username: ron (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 15:34:45 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 15:34:55 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 15:37:21 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 15:37:24 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 15:37:50 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 15:38:29 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 15:39:49 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 15:39:53 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 15:39:57 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 15:40:23 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 15:40:54 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 15:42:30 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 15:43:09 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 15:43:36 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 15:44:08 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 15:44:19 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 15:44:30 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 15:44:40 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 15:45:16 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 15:46:27 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 15:47:10 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 15:47:17 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 15:47:17 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 15:47:19 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 15:47:22 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 15:49:17 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 15:49:36 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 15:49:38 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 15:50:00 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 15:50:02 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 15:51:59 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 15:56:31 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 15:56:39 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 15:56:59 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 15:57:01 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 15:57:02 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 15:57:10 - DEBUG - auth.service - login with username: ron (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 15:57:11 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 15:57:12 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 15:58:07 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 15:58:08 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:00:47 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:00:54 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:00:54 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:00:55 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:00:55 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:00:58 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:01:01 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:01:02 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:01:03 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:01:04 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:01:07 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:01:10 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:01:11 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:01:11 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:01:13 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:01:16 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:01:19 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:01:22 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:02:19 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:02:32 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:02:33 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:02:36 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:02:37 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:02:37 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:02:37 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:02:40 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:02:51 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:04:29 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:04:32 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:07:34 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:07:35 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:09:29 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:09:36 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:09:39 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:11:45 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:12:51 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:12:56 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:13:00 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:14:23 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:14:38 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:14:40 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:15:37 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:15:38 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:15:39 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:15:50 - DEBUG - auth.service - login with username: ron (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:15:50 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:15:52 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:15:53 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:15:54 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:15:55 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:17:57 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:17:58 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:18:00 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:18:03 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:18:03 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:18:04 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:18:04 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:18:05 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:18:06 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:18:06 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:18:13 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:18:15 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:18:28 - DEBUG - auth.service - login with username: ron (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:18:28 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:18:30 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:18:41 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:20:52 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:21:56 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:21:58 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:23:50 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:25:15 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:26:08 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:26:51 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:26:51 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:26:52 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:27:11 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:37:22 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:38:24 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:38:25 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:38:26 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:38:27 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:38:29 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:38:30 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:38:32 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:38:34 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:38:36 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:38:37 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:38:38 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:38:39 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:38:40 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:38:47 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:38:50 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:38:51 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:38:52 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:38:53 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:38:54 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:38:55 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:38:56 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:38:57 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:38:57 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:38:59 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:39:00 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:39:02 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:39:03 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:39:03 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:39:04 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:39:05 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:39:05 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:39:06 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:39:06 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:39:07 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:39:07 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:39:08 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:39:10 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:42:55 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:42:57 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:42:58 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:42:59 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:43:01 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:43:01 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:43:02 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:43:02 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:43:03 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:43:03 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:43:04 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:43:04 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:43:06 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:43:06 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:43:07 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:43:07 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:43:07 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:43:07 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:43:09 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:43:09 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:43:10 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:43:11 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:43:20 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:43:20 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:43:21 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:43:21 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:43:21 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:43:23 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:43:26 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:43:27 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:43:28 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:43:29 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:43:30 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:43:32 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:43:32 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:43:34 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:43:35 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:43:35 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:43:36 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:43:39 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:43:41 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:43:41 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:43:42 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:43:44 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:43:45 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:43:45 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:43:46 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:43:47 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:43:48 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:43:48 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:43:49 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:43:51 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:43:51 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:43:53 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:43:53 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:43:53 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:43:53 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:43:54 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:43:55 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:43:55 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:43:56 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:43:56 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:43:58 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:44:08 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:44:08 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:44:09 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:44:10 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:44:10 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:44:11 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:44:11 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:44:12 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:44:13 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:44:13 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:44:14 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:44:14 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:44:14 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:44:15 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:44:15 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:44:16 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:44:17 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:44:17 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:44:18 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:44:19 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:44:21 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:44:21 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:44:22 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:44:22 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:44:23 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:44:23 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:44:23 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:44:23 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:44:24 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:44:24 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:44:25 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:44:25 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:47:51 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:47:56 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:47:58 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:48:00 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:48:01 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:48:03 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:48:03 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:48:04 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:48:04 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:48:04 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:48:06 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:48:08 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:48:08 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:48:09 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:48:09 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:48:10 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:48:10 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:48:10 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:48:13 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:48:13 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:48:14 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:48:14 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:48:15 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:48:15 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:48:17 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:48:52 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:48:53 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:48:54 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:48:54 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:48:55 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:48:55 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:48:55 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:48:58 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:48:58 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:48:59 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:48:59 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:49:00 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:49:00 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:49:01 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:49:01 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:49:01 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:49:02 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:49:02 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:49:15 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:49:28 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:49:29 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:49:30 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:49:31 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:49:31 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:49:32 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:49:32 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:49:33 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:49:33 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:49:34 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:49:34 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:49:34 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:49:34 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:49:35 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:49:36 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:49:36 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:49:37 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:49:37 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:49:38 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:49:38 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:49:38 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:49:38 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:50:08 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:50:08 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:50:09 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:50:10 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:50:10 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:50:10 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:50:10 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:50:11 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:50:11 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:50:11 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:50:12 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:50:12 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:50:12 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:50:12 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:50:14 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:50:15 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:51:38 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:51:39 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:52:00 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:52:55 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:53:37 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:54:13 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:54:13 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:54:14 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:54:17 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:54:23 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:55:10 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:55:37 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:55:39 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:55:41 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:55:44 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:55:59 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:56:18 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:56:19 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:56:20 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:56:24 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:56:26 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:56:28 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:56:29 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:56:32 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:56:33 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:56:35 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:56:37 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:56:39 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:57:10 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:59:02 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:59:06 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:59:07 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:59:09 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:59:11 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:59:12 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:59:14 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:59:38 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:59:40 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:59:41 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:59:43 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:59:45 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:59:47 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:59:49 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:59:50 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 16:59:52 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 17:01:00 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 17:01:02 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 17:01:06 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 17:01:08 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 17:01:12 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 17:01:14 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 17:01:15 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 17:01:21 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 17:01:21 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 17:01:21 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 17:01:23 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 17:01:25 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 17:01:25 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 17:01:26 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 17:01:29 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 17:01:29 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 17:01:30 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 17:01:30 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 17:01:31 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 17:01:31 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 17:01:31 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 17:01:32 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 17:01:32 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 17:01:51 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 17:10:52 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 17:11:26 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 17:11:33 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 17:13:41 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 17:15:58 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 17:16:35 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 17:16:41 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 17:16:53 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 17:16:55 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 17:17:00 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 17:17:05 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 17:17:39 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 17:18:21 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 17:18:22 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 17:26:49 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 17:27:14 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 17:27:53 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 17:28:09 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 17:28:16 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 17:29:02 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 17:29:35 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 17:29:37 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 17:29:38 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 17:29:47 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 17:29:50 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 17:30:42 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 17:30:46 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 17:31:46 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 17:31:46 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 17:31:47 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 17:31:55 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 17:33:01 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 17:33:03 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 17:33:08 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 17:33:09 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 17:33:10 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 17:38:42 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 17:39:53 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 17:40:15 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 17:40:23 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 18:00:13 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 18:03:09 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 18:06:47 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 18:06:53 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 18:06:54 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 18:06:56 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 18:06:58 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 18:07:03 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 18:07:37 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 18:07:44 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 18:13:10 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 18:13:18 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 18:13:20 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 18:13:21 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 18:13:59 - INFO - Req from: ron shitrit (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 18:14:26 - DEBUG - auth.service - signup with username: wrew, fullname: firstname lastname (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 18:14:26 - DEBUG - auth.route - new account created: {"username":"wrew","password":"$2b$10$v9J/KzGNFfP9Dq2lHKiua.QY.8aBjjqL.kdvKRx.hz/ezhOinlfNC","fullname":"firstname lastname","_id":"637ba3e24eeeb84f600ff160"} (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 18:14:26 - DEBUG - auth.service - login with username: wrew (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 18:14:27 - INFO - Req from: firstname lastname (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 18:14:31 - INFO - Req from: firstname lastname (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 18:24:04 - INFO - Req from: firstname lastname (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 18:24:08 - INFO - Req from: firstname lastname (sid: jjAMCfNpXUN6x_tP3Ej1nfwpDdBgRNKl)
+21/11/2022, 18:25:15 - INFO - Server is running on port: 3030 
+21/11/2022, 18:25:29 - DEBUG - auth.service - login with username: ron (sid: zVmzSPbyJHCzrUm30hJrXYn_5MIQmJJP)
+21/11/2022, 18:25:29 - INFO - Req from: ron shitrit (sid: zVmzSPbyJHCzrUm30hJrXYn_5MIQmJJP)
+21/11/2022, 18:25:30 - INFO - Req from: ron shitrit (sid: zVmzSPbyJHCzrUm30hJrXYn_5MIQmJJP)
+21/11/2022, 18:26:41 - INFO - Req from: ron shitrit (sid: zVmzSPbyJHCzrUm30hJrXYn_5MIQmJJP)
+21/11/2022, 18:27:23 - INFO - Server is running on port: 3030 
+21/11/2022, 18:27:50 - INFO - Server is running on port: 3030 
+21/11/2022, 18:29:55 - ERROR - while finding user w | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (sid: RexYH18d4Hq2vUpGXhbdMPNEhCfyIgtz)
+21/11/2022, 18:29:55 - ERROR - Failed to get user | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (sid: RexYH18d4Hq2vUpGXhbdMPNEhCfyIgtz)
+21/11/2022, 18:30:33 - ERROR - while finding user search | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (sid: RexYH18d4Hq2vUpGXhbdMPNEhCfyIgtz)
+21/11/2022, 18:30:33 - ERROR - Failed to get user | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (sid: RexYH18d4Hq2vUpGXhbdMPNEhCfyIgtz)
+21/11/2022, 18:30:35 - ERROR - while finding user search | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (sid: RexYH18d4Hq2vUpGXhbdMPNEhCfyIgtz)
+21/11/2022, 18:30:35 - ERROR - Failed to get user | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (sid: RexYH18d4Hq2vUpGXhbdMPNEhCfyIgtz)
+21/11/2022, 18:30:35 - ERROR - while finding user search | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (sid: RexYH18d4Hq2vUpGXhbdMPNEhCfyIgtz)
+21/11/2022, 18:30:35 - ERROR - Failed to get user | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (sid: RexYH18d4Hq2vUpGXhbdMPNEhCfyIgtz)
+21/11/2022, 18:30:35 - ERROR - while finding user search | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (sid: RexYH18d4Hq2vUpGXhbdMPNEhCfyIgtz)
+21/11/2022, 18:30:35 - ERROR - Failed to get user | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (sid: RexYH18d4Hq2vUpGXhbdMPNEhCfyIgtz)
+21/11/2022, 18:32:42 - INFO - Server is running on port: 3030 
+21/11/2022, 18:37:19 - INFO - Server is running on port: 3030 
+21/11/2022, 18:37:23 - INFO - Server is running on port: 3030 
+21/11/2022, 18:37:35 - INFO - Server is running on port: 3030 
+21/11/2022, 18:37:43 - DEBUG - auth.service - login with username: ron (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:37:43 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:37:45 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:37:47 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:37:48 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:37:53 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:37:54 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:38:00 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:38:01 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:38:03 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:38:06 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:38:06 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:38:12 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:39:40 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:39:42 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:39:43 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:39:50 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:39:55 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:40:09 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:40:10 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:40:11 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:40:12 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:40:15 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:40:18 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:40:19 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:40:22 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:40:23 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:40:24 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:40:24 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:40:25 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:40:25 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:40:26 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:41:12 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:44:55 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:44:56 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:46:20 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:46:57 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:47:24 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:47:27 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:47:27 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:48:34 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:48:35 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:49:03 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:49:08 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:49:38 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:49:42 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:49:49 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:49:49 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:49:50 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:49:51 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:49:51 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:49:51 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:49:51 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:50:10 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:50:48 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:50:55 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:50:57 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:50:59 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:51:00 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:51:01 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:51:36 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:51:40 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:52:36 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:52:38 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:52:40 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:52:40 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:52:41 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:52:42 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:52:42 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:53:42 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:57:06 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:57:17 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:57:22 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:57:26 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:57:33 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:57:49 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 18:57:52 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 19:00:38 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 19:01:20 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 19:01:32 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 19:01:34 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 19:01:37 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 19:01:38 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 19:02:59 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 19:03:15 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 19:04:01 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 19:06:51 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 19:07:30 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 19:08:03 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 19:08:10 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 19:09:40 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 19:09:42 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 19:09:44 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+21/11/2022, 19:09:56 - INFO - Req from: ron shitrit (sid: ZtsrnxwXJyCbbIwsS7wT_DOr2jJGnWqo)
+22/11/2022, 14:19:37 - INFO - Server is running on port: 3030 
+22/11/2022, 14:19:54 - DEBUG - auth.service - login with username: ron (sid: iMMfdFswev830ATO74Taq4RA63hvkZcb)
+22/11/2022, 14:19:55 - INFO - Req from: ron shitrit (sid: iMMfdFswev830ATO74Taq4RA63hvkZcb)
+22/11/2022, 14:20:05 - INFO - Req from: ron shitrit (sid: iMMfdFswev830ATO74Taq4RA63hvkZcb)
+22/11/2022, 14:27:32 - INFO - Req from: ron shitrit (sid: iMMfdFswev830ATO74Taq4RA63hvkZcb)
+22/11/2022, 14:29:28 - INFO - Req from: ron shitrit (sid: iMMfdFswev830ATO74Taq4RA63hvkZcb)
+22/11/2022, 14:30:16 - INFO - Req from: ron shitrit (sid: iMMfdFswev830ATO74Taq4RA63hvkZcb)
+22/11/2022, 14:30:37 - INFO - Req from: ron shitrit (sid: iMMfdFswev830ATO74Taq4RA63hvkZcb)
+22/11/2022, 14:31:37 - INFO - Req from: ron shitrit (sid: iMMfdFswev830ATO74Taq4RA63hvkZcb)
+22/11/2022, 14:33:42 - INFO - Req from: ron shitrit (sid: iMMfdFswev830ATO74Taq4RA63hvkZcb)
+22/11/2022, 14:35:12 - INFO - Req from: ron shitrit (sid: iMMfdFswev830ATO74Taq4RA63hvkZcb)
+22/11/2022, 14:35:48 - INFO - Req from: ron shitrit (sid: iMMfdFswev830ATO74Taq4RA63hvkZcb)
+22/11/2022, 14:37:15 - INFO - Req from: ron shitrit (sid: iMMfdFswev830ATO74Taq4RA63hvkZcb)
+22/11/2022, 14:37:38 - INFO - Req from: ron shitrit (sid: iMMfdFswev830ATO74Taq4RA63hvkZcb)
+22/11/2022, 14:39:03 - INFO - Req from: ron shitrit (sid: iMMfdFswev830ATO74Taq4RA63hvkZcb)
+22/11/2022, 14:39:36 - INFO - Req from: ron shitrit (sid: iMMfdFswev830ATO74Taq4RA63hvkZcb)
+22/11/2022, 14:42:22 - INFO - Req from: ron shitrit (sid: iMMfdFswev830ATO74Taq4RA63hvkZcb)
+22/11/2022, 14:42:26 - INFO - Req from: ron shitrit (sid: iMMfdFswev830ATO74Taq4RA63hvkZcb)
+22/11/2022, 14:42:36 - INFO - Req from: ron shitrit (sid: iMMfdFswev830ATO74Taq4RA63hvkZcb)
+22/11/2022, 14:42:51 - INFO - Req from: ron shitrit (sid: iMMfdFswev830ATO74Taq4RA63hvkZcb)
+22/11/2022, 14:42:53 - INFO - Req from: ron shitrit (sid: iMMfdFswev830ATO74Taq4RA63hvkZcb)
+22/11/2022, 14:43:31 - INFO - Req from: ron shitrit (sid: iMMfdFswev830ATO74Taq4RA63hvkZcb)
+22/11/2022, 14:43:39 - INFO - Req from: ron shitrit (sid: iMMfdFswev830ATO74Taq4RA63hvkZcb)
+22/11/2022, 14:44:20 - INFO - Req from: ron shitrit (sid: iMMfdFswev830ATO74Taq4RA63hvkZcb)
+22/11/2022, 14:44:25 - INFO - Req from: ron shitrit (sid: iMMfdFswev830ATO74Taq4RA63hvkZcb)
+22/11/2022, 14:44:26 - INFO - Req from: ron shitrit (sid: iMMfdFswev830ATO74Taq4RA63hvkZcb)
+22/11/2022, 14:44:49 - INFO - Req from: ron shitrit (sid: iMMfdFswev830ATO74Taq4RA63hvkZcb)
+22/11/2022, 14:44:55 - INFO - Req from: ron shitrit (sid: iMMfdFswev830ATO74Taq4RA63hvkZcb)
+22/11/2022, 14:44:56 - INFO - Req from: ron shitrit (sid: iMMfdFswev830ATO74Taq4RA63hvkZcb)
+22/11/2022, 14:44:59 - INFO - Req from: ron shitrit (sid: iMMfdFswev830ATO74Taq4RA63hvkZcb)
+22/11/2022, 14:45:14 - INFO - Req from: ron shitrit (sid: iMMfdFswev830ATO74Taq4RA63hvkZcb)
+22/11/2022, 14:45:18 - INFO - Req from: ron shitrit (sid: iMMfdFswev830ATO74Taq4RA63hvkZcb)
+22/11/2022, 14:45:18 - INFO - Req from: ron shitrit (sid: iMMfdFswev830ATO74Taq4RA63hvkZcb)
+22/11/2022, 14:45:19 - INFO - Req from: ron shitrit (sid: iMMfdFswev830ATO74Taq4RA63hvkZcb)
+22/11/2022, 14:45:21 - INFO - Req from: ron shitrit (sid: iMMfdFswev830ATO74Taq4RA63hvkZcb)
+22/11/2022, 14:45:21 - INFO - Req from: ron shitrit (sid: iMMfdFswev830ATO74Taq4RA63hvkZcb)
+22/11/2022, 14:45:22 - INFO - Req from: ron shitrit (sid: iMMfdFswev830ATO74Taq4RA63hvkZcb)
+22/11/2022, 14:45:22 - INFO - Req from: ron shitrit (sid: iMMfdFswev830ATO74Taq4RA63hvkZcb)
+22/11/2022, 14:45:23 - INFO - Req from: ron shitrit (sid: iMMfdFswev830ATO74Taq4RA63hvkZcb)
+22/11/2022, 14:45:27 - INFO - Req from: ron shitrit (sid: iMMfdFswev830ATO74Taq4RA63hvkZcb)
+22/11/2022, 14:45:28 - INFO - Req from: ron shitrit (sid: iMMfdFswev830ATO74Taq4RA63hvkZcb)
+22/11/2022, 14:45:29 - INFO - Req from: ron shitrit (sid: iMMfdFswev830ATO74Taq4RA63hvkZcb)
+22/11/2022, 14:47:44 - INFO - Req from: ron shitrit (sid: iMMfdFswev830ATO74Taq4RA63hvkZcb)
+22/11/2022, 14:48:46 - INFO - Req from: ron shitrit (sid: iMMfdFswev830ATO74Taq4RA63hvkZcb)
+22/11/2022, 15:05:35 - DEBUG - auth.service - login with username: ron (sid: iMMfdFswev830ATO74Taq4RA63hvkZcb)
+22/11/2022, 15:05:35 - INFO - Req from: ron shitrit (sid: iMMfdFswev830ATO74Taq4RA63hvkZcb)
+22/11/2022, 15:05:38 - INFO - Req from: ron shitrit (sid: iMMfdFswev830ATO74Taq4RA63hvkZcb)
+22/11/2022, 15:05:40 - INFO - Req from: ron shitrit (sid: iMMfdFswev830ATO74Taq4RA63hvkZcb)
+22/11/2022, 15:07:43 - DEBUG - auth.service - signup with username: user, fullname: user user  (sid: iMMfdFswev830ATO74Taq4RA63hvkZcb)
+22/11/2022, 15:07:44 - DEBUG - auth.route - new account created: {"username":"user","password":"$2b$10$Jq3j01qZ2/RWJQEw.CHpRuBQ6THwjMYc0CdFeYvcv3x8UD/lYwlwW","fullname":"user user ","_id":"637cc9a02cc99d28b4add2fe"} (sid: iMMfdFswev830ATO74Taq4RA63hvkZcb)
+22/11/2022, 15:07:44 - DEBUG - auth.service - login with username: user (sid: iMMfdFswev830ATO74Taq4RA63hvkZcb)
+22/11/2022, 15:07:44 - INFO - Req from: user user  (sid: iMMfdFswev830ATO74Taq4RA63hvkZcb)
+22/11/2022, 15:07:48 - INFO - Req from: user user  (sid: iMMfdFswev830ATO74Taq4RA63hvkZcb)
+22/11/2022, 15:07:55 - DEBUG - auth.service - login with username: ron (sid: iMMfdFswev830ATO74Taq4RA63hvkZcb)
+22/11/2022, 15:07:55 - INFO - Req from: ron shitrit (sid: iMMfdFswev830ATO74Taq4RA63hvkZcb)
+22/11/2022, 15:08:07 - INFO - Req from: ron shitrit (sid: iMMfdFswev830ATO74Taq4RA63hvkZcb)
+22/11/2022, 15:17:18 - DEBUG - auth.service - signup with username: name lastname, fullname: eee (sid: iMMfdFswev830ATO74Taq4RA63hvkZcb)
+22/11/2022, 15:17:18 - DEBUG - auth.route - new account created: {"username":"name lastname","password":"$2b$10$I/LmmSg7Vp.ECOAosIpCfuLS585WN3aVhxp7dsDdqUWDP7NiYsERe","fullname":"eee","_id":"637ccbde2cc99d28b4add2ff"} (sid: iMMfdFswev830ATO74Taq4RA63hvkZcb)
+22/11/2022, 15:17:18 - DEBUG - auth.service - login with username: name lastname (sid: iMMfdFswev830ATO74Taq4RA63hvkZcb)
+22/11/2022, 15:17:18 - INFO - Req from: eee (sid: iMMfdFswev830ATO74Taq4RA63hvkZcb)
+22/11/2022, 15:18:16 - INFO - Server is running on port: 3030 
+22/11/2022, 15:18:34 - INFO - Server is running on port: 3030 
+22/11/2022, 15:19:04 - DEBUG - auth.service - signup with username: blip, fullname: blip blorp (sid: J6JHK9c8kDiN2267NdXMuxxivoeM7To2)
+22/11/2022, 15:19:04 - DEBUG - auth.route - new account created: {"username":"blip","password":"$2b$10$M5oM.QSpIins2kl9u7KpE.Z3KbDdkW0Qo01nnNL4JHe70/PIv5o6y","fullname":"blip blorp","imgUrl":"https://res.cloudinary.com/dtseyauom/image/upload/aeizrglkjttuoep5owvs.png","_id":"637ccc489a80f80bf01b46c2"} (sid: J6JHK9c8kDiN2267NdXMuxxivoeM7To2)
+22/11/2022, 15:19:04 - DEBUG - auth.service - login with username: blip (sid: J6JHK9c8kDiN2267NdXMuxxivoeM7To2)
+22/11/2022, 15:19:05 - INFO - Req from: blip blorp (sid: J6JHK9c8kDiN2267NdXMuxxivoeM7To2)
+22/11/2022, 15:30:49 - DEBUG - auth.service - login with username: ron (sid: J6JHK9c8kDiN2267NdXMuxxivoeM7To2)
+22/11/2022, 15:30:49 - INFO - Req from: ron shitrit (sid: J6JHK9c8kDiN2267NdXMuxxivoeM7To2)
+22/11/2022, 15:32:43 - DEBUG - auth.service - login with username: ron (sid: J6JHK9c8kDiN2267NdXMuxxivoeM7To2)
+22/11/2022, 15:32:44 - INFO - Req from: ron shitrit (sid: J6JHK9c8kDiN2267NdXMuxxivoeM7To2)
+22/11/2022, 15:34:56 - INFO - Server is running on port: 3030 
+22/11/2022, 15:38:34 - INFO - Server is running on port: 3030 
+22/11/2022, 15:39:14 - INFO - Server is running on port: 3030 
+22/11/2022, 15:40:11 - ERROR - Cannot get boards | ReferenceError: userId is not defined (sid: PZTc_y8YbZxLxj2VvmBbc-FHxwKr0XTM)
+22/11/2022, 15:40:19 - DEBUG - auth.service - login with username: ron (sid: PZTc_y8YbZxLxj2VvmBbc-FHxwKr0XTM)
+22/11/2022, 15:40:20 - INFO - Req from: ron shitrit (sid: PZTc_y8YbZxLxj2VvmBbc-FHxwKr0XTM)
+22/11/2022, 15:40:20 - ERROR - Cannot get boards | ReferenceError: userId is not defined (sid: PZTc_y8YbZxLxj2VvmBbc-FHxwKr0XTM)
+22/11/2022, 15:40:44 - INFO - Req from: ron shitrit (sid: PZTc_y8YbZxLxj2VvmBbc-FHxwKr0XTM)
+22/11/2022, 15:40:44 - ERROR - Cannot get boards | ReferenceError: userId is not defined (sid: PZTc_y8YbZxLxj2VvmBbc-FHxwKr0XTM)
+22/11/2022, 15:41:03 - INFO - Server is running on port: 3030 
+22/11/2022, 15:41:06 - ERROR - Cannot get boards | ReferenceError: userId is not defined (sid: K25YKumqyEpbuIJDEFv1VF8xEEqrwTvD)
+22/11/2022, 15:41:17 - INFO - Server is running on port: 3030 
+22/11/2022, 15:41:23 - DEBUG - auth.service - login with username: ron (sid: 9RTwH3R4KcxYU1i7eMT05hl4wkzJA7J1)
+22/11/2022, 15:41:24 - INFO - Req from: ron shitrit (sid: 9RTwH3R4KcxYU1i7eMT05hl4wkzJA7J1)
+22/11/2022, 15:41:24 - ERROR - Cannot get boards | ReferenceError: userId is not defined (sid: 9RTwH3R4KcxYU1i7eMT05hl4wkzJA7J1)
+22/11/2022, 15:41:45 - INFO - Server is running on port: 3030 
+22/11/2022, 15:41:48 - ERROR - Cannot get boards | ReferenceError: userId is not defined (sid: HNP3vXjuWN3GobReM8Sj1fMnFju3hAPt)
+22/11/2022, 15:41:55 - DEBUG - auth.service - login with username: ron (sid: HNP3vXjuWN3GobReM8Sj1fMnFju3hAPt)
+22/11/2022, 15:41:56 - INFO - Req from: ron shitrit (sid: HNP3vXjuWN3GobReM8Sj1fMnFju3hAPt)
+22/11/2022, 15:41:56 - ERROR - Cannot get boards | ReferenceError: userId is not defined (sid: HNP3vXjuWN3GobReM8Sj1fMnFju3hAPt)
+22/11/2022, 15:42:17 - INFO - Req from: ron shitrit (sid: HNP3vXjuWN3GobReM8Sj1fMnFju3hAPt)
+22/11/2022, 15:42:17 - ERROR - Cannot get boards | ReferenceError: userId is not defined (sid: HNP3vXjuWN3GobReM8Sj1fMnFju3hAPt)
+22/11/2022, 15:42:36 - INFO - Server is running on port: 3030 
+22/11/2022, 15:42:39 - ERROR - Cannot get boards | ReferenceError: userId is not defined (sid: YmkwpnzPC8dm-xbFdbEEWhPyLeZ_fbXA)
+22/11/2022, 15:42:45 - DEBUG - auth.service - login with username: ron (sid: YmkwpnzPC8dm-xbFdbEEWhPyLeZ_fbXA)
+22/11/2022, 15:42:46 - INFO - Req from: ron shitrit (sid: YmkwpnzPC8dm-xbFdbEEWhPyLeZ_fbXA)
+22/11/2022, 15:42:46 - ERROR - Cannot get boards | ReferenceError: userId is not defined (sid: YmkwpnzPC8dm-xbFdbEEWhPyLeZ_fbXA)
+22/11/2022, 15:44:31 - INFO - Server is running on port: 3030 
+22/11/2022, 15:44:34 - ERROR - Cannot get boards | ReferenceError: userId is not defined (sid: Z6yMR3Zwzaoye2YLL96Nn_uL5d3xiZVi)
+22/11/2022, 15:44:40 - DEBUG - auth.service - login with username: ron (sid: Z6yMR3Zwzaoye2YLL96Nn_uL5d3xiZVi)
+22/11/2022, 15:44:41 - INFO - Req from: ron shitrit (sid: Z6yMR3Zwzaoye2YLL96Nn_uL5d3xiZVi)
+22/11/2022, 15:44:41 - ERROR - Cannot get boards | ReferenceError: userId is not defined (sid: Z6yMR3Zwzaoye2YLL96Nn_uL5d3xiZVi)
+22/11/2022, 15:45:32 - INFO - Server is running on port: 3030 
+22/11/2022, 15:45:56 - INFO - Server is running on port: 3030 
+22/11/2022, 15:46:02 - DEBUG - auth.service - login with username: ron (sid: UBsNCIfWVC2y313qySNpMM0o58fxnlPN)
+22/11/2022, 15:46:03 - INFO - Req from: ron shitrit (sid: UBsNCIfWVC2y313qySNpMM0o58fxnlPN)
+22/11/2022, 15:46:03 - ERROR - Cannot get boards | TypeError: Cannot read properties of undefined (reading 'forEach') (sid: UBsNCIfWVC2y313qySNpMM0o58fxnlPN)
+22/11/2022, 15:46:28 - INFO - Server is running on port: 3030 
+22/11/2022, 15:46:35 - DEBUG - auth.service - login with username: ron (sid: j2EZfsQAEa-oUd5IgJrQA8bDhxO9g-5f)
+22/11/2022, 15:46:36 - INFO - Req from: ron shitrit (sid: j2EZfsQAEa-oUd5IgJrQA8bDhxO9g-5f)
+22/11/2022, 15:46:36 - ERROR - Cannot get boards | TypeError: Cannot set properties of undefined (setting '_id') (sid: j2EZfsQAEa-oUd5IgJrQA8bDhxO9g-5f)
+22/11/2022, 15:46:53 - INFO - Server is running on port: 3030 
+22/11/2022, 15:47:01 - DEBUG - auth.service - login with username: ron (sid: jFVbZ9hdzIB1eRUbWKeUJz1gSx4vefKn)
+22/11/2022, 15:47:01 - INFO - Req from: ron shitrit (sid: jFVbZ9hdzIB1eRUbWKeUJz1gSx4vefKn)
+22/11/2022, 15:47:01 - ERROR - Cannot get boards | TypeError: Cannot set properties of undefined (setting 'id') (sid: jFVbZ9hdzIB1eRUbWKeUJz1gSx4vefKn)
+22/11/2022, 15:47:42 - INFO - Req from: ron shitrit (sid: jFVbZ9hdzIB1eRUbWKeUJz1gSx4vefKn)
+22/11/2022, 15:47:42 - ERROR - Cannot get boards | TypeError: Cannot set properties of undefined (setting 'id') (sid: jFVbZ9hdzIB1eRUbWKeUJz1gSx4vefKn)
+22/11/2022, 15:48:02 - INFO - Server is running on port: 3030 
+22/11/2022, 15:48:09 - DEBUG - auth.service - login with username: ron (sid: laDMQSVhpgobq9yChMvE8VY5CinNfhUs)
+22/11/2022, 15:48:09 - INFO - Req from: ron shitrit (sid: laDMQSVhpgobq9yChMvE8VY5CinNfhUs)
+22/11/2022, 15:48:10 - INFO - Req from: ron shitrit (sid: laDMQSVhpgobq9yChMvE8VY5CinNfhUs)
+22/11/2022, 15:48:19 - INFO - Req from: ron shitrit (sid: laDMQSVhpgobq9yChMvE8VY5CinNfhUs)
+22/11/2022, 15:48:20 - INFO - Req from: ron shitrit (sid: laDMQSVhpgobq9yChMvE8VY5CinNfhUs)
+22/11/2022, 15:48:50 - INFO - Server is running on port: 3030 
+22/11/2022, 15:48:58 - DEBUG - auth.service - login with username: ron (sid: 2z9sCfIhiyQ9KRlMUraMqrgwiQrN4vmA)
+22/11/2022, 15:48:58 - INFO - Req from: ron shitrit (sid: 2z9sCfIhiyQ9KRlMUraMqrgwiQrN4vmA)
+22/11/2022, 15:48:58 - ERROR - Cannot get boards | TypeError: Cannot set properties of undefined (setting '_id') (sid: 2z9sCfIhiyQ9KRlMUraMqrgwiQrN4vmA)
+22/11/2022, 15:49:26 - INFO - Server is running on port: 3030 
+22/11/2022, 15:49:35 - DEBUG - auth.service - login with username: ron (sid: rcgw5vgGBwlHFnBQqej5HLaYZj0A3nEg)
+22/11/2022, 15:49:36 - INFO - Req from: ron shitrit (sid: rcgw5vgGBwlHFnBQqej5HLaYZj0A3nEg)
+22/11/2022, 15:52:18 - INFO - Server is running on port: 3030 
+22/11/2022, 15:52:25 - DEBUG - auth.service - login with username: ron (sid: eRtVXK1AQjGhYd9mAF5NNhXX5ocpKq3v)
+22/11/2022, 15:52:25 - INFO - Req from: ron shitrit (sid: eRtVXK1AQjGhYd9mAF5NNhXX5ocpKq3v)
+22/11/2022, 15:52:25 - ERROR - Cannot get boards | TypeError: Cannot read properties of undefined (reading 'forEach') (sid: eRtVXK1AQjGhYd9mAF5NNhXX5ocpKq3v)
+22/11/2022, 15:52:57 - INFO - Server is running on port: 3030 
+22/11/2022, 15:53:04 - DEBUG - auth.service - login with username: ron (sid: DS5L0eybp94t8CBh1CUMvVILk9jmyUGa)
+22/11/2022, 15:53:04 - INFO - Req from: ron shitrit (sid: DS5L0eybp94t8CBh1CUMvVILk9jmyUGa)
+22/11/2022, 15:53:04 - ERROR - Cannot get boards | TypeError: Cannot read properties of undefined (reading 'filter') (sid: DS5L0eybp94t8CBh1CUMvVILk9jmyUGa)
+22/11/2022, 15:54:46 - INFO - Server is running on port: 3030 
+22/11/2022, 15:54:55 - DEBUG - auth.service - login with username: ron (sid: AUAhOTMS9SH8wezk9LnwQRf4F-hVhfTH)
+22/11/2022, 15:54:55 - INFO - Req from: ron shitrit (sid: AUAhOTMS9SH8wezk9LnwQRf4F-hVhfTH)
+22/11/2022, 15:54:55 - ERROR - Cannot get boards | TypeError: Cannot read properties of undefined (reading 'filter') (sid: AUAhOTMS9SH8wezk9LnwQRf4F-hVhfTH)
+22/11/2022, 15:56:53 - INFO - Server is running on port: 3030 
+22/11/2022, 15:57:01 - DEBUG - auth.service - login with username: ron (sid: kE9sTKOJesnQ0qX156DSAk8UOY9AgTcV)
+22/11/2022, 15:57:02 - INFO - Req from: ron shitrit (sid: kE9sTKOJesnQ0qX156DSAk8UOY9AgTcV)
+22/11/2022, 15:57:02 - ERROR - Cannot get boards | TypeError: Cannot read properties of undefined (reading 'filter') (sid: kE9sTKOJesnQ0qX156DSAk8UOY9AgTcV)
+22/11/2022, 16:00:15 - INFO - Server is running on port: 3030 
+22/11/2022, 16:00:25 - DEBUG - auth.service - login with username: ron (sid: SeE_Frias8B8hr9XiyPKgk07FM84PYrV)
+22/11/2022, 16:00:25 - INFO - Req from: ron shitrit (sid: SeE_Frias8B8hr9XiyPKgk07FM84PYrV)
+22/11/2022, 16:00:25 - ERROR - Cannot get boards | TypeError: Cannot read properties of null (reading 'members') (sid: SeE_Frias8B8hr9XiyPKgk07FM84PYrV)
+22/11/2022, 16:01:06 - INFO - Server is running on port: 3030 
+22/11/2022, 16:01:14 - DEBUG - auth.service - login with username: ron (sid: pdLv408sITNbJSMc4E-7n_VJyfSnJPWh)
+22/11/2022, 16:01:14 - INFO - Req from: ron shitrit (sid: pdLv408sITNbJSMc4E-7n_VJyfSnJPWh)
+22/11/2022, 16:01:14 - ERROR - Cannot get boards | ReferenceError: boards is not defined (sid: pdLv408sITNbJSMc4E-7n_VJyfSnJPWh)
+22/11/2022, 16:01:40 - INFO - Server is running on port: 3030 
+22/11/2022, 16:01:48 - DEBUG - auth.service - login with username: ron (sid: WrBFOa8JB58VRM4Yfv1LZ_qZDfxIFEeh)
+22/11/2022, 16:01:48 - INFO - Req from: ron shitrit (sid: WrBFOa8JB58VRM4Yfv1LZ_qZDfxIFEeh)
+22/11/2022, 16:01:48 - ERROR - Cannot get boards | ReferenceError: boards is not defined (sid: WrBFOa8JB58VRM4Yfv1LZ_qZDfxIFEeh)
+22/11/2022, 16:05:06 - INFO - Server is running on port: 3030 
+22/11/2022, 16:05:14 - DEBUG - auth.service - login with username: ron (sid: arWDrEe-orHtFpw1OGXU3hYuG7TFF-Dn)
+22/11/2022, 16:05:14 - INFO - Req from: ron shitrit (sid: arWDrEe-orHtFpw1OGXU3hYuG7TFF-Dn)
+22/11/2022, 16:05:14 - ERROR - Cannot get boards | TypeError: Cannot read properties of null (reading 'members') (sid: arWDrEe-orHtFpw1OGXU3hYuG7TFF-Dn)
+22/11/2022, 16:07:18 - INFO - Server is running on port: 3030 
+22/11/2022, 16:07:25 - DEBUG - auth.service - login with username: ron (sid: 3-VPQOVjAx2lJFzrNCiyPEFpJHbqGkP-)
+22/11/2022, 16:07:25 - INFO - Req from: ron shitrit (sid: 3-VPQOVjAx2lJFzrNCiyPEFpJHbqGkP-)
+22/11/2022, 16:07:25 - ERROR - Cannot get boards | TypeError: Cannot set properties of undefined (setting '_id') (sid: 3-VPQOVjAx2lJFzrNCiyPEFpJHbqGkP-)
+22/11/2022, 16:07:58 - INFO - Server is running on port: 3030 
+22/11/2022, 16:08:04 - DEBUG - auth.service - login with username: ron (sid: f1wpEKRv4as8qOczF4n5jdATnOPB8uko)
+22/11/2022, 16:08:05 - INFO - Req from: ron shitrit (sid: f1wpEKRv4as8qOczF4n5jdATnOPB8uko)
+22/11/2022, 16:08:05 - ERROR - Cannot get boards | TypeError: Cannot set properties of undefined (setting '_id') (sid: f1wpEKRv4as8qOczF4n5jdATnOPB8uko)
+22/11/2022, 16:08:56 - INFO - Server is running on port: 3030 
+22/11/2022, 16:08:59 - ERROR - Cannot get boards | TypeError: collection.toArray is not a function (sid: 1UNvgXXalwVkc98qQB2O4uH2iFzuLLzS)
+22/11/2022, 16:09:03 - DEBUG - auth.service - login with username: ron (sid: 1UNvgXXalwVkc98qQB2O4uH2iFzuLLzS)
+22/11/2022, 16:09:03 - INFO - Req from: ron shitrit (sid: 1UNvgXXalwVkc98qQB2O4uH2iFzuLLzS)
+22/11/2022, 16:09:03 - ERROR - Cannot get boards | TypeError: Cannot set properties of undefined (setting '_id') (sid: 1UNvgXXalwVkc98qQB2O4uH2iFzuLLzS)
+22/11/2022, 16:09:15 - INFO - Server is running on port: 3030 
+22/11/2022, 16:09:18 - ERROR - Cannot get boards | TypeError: collection.toArray is not a function (sid: vfI68l3Pl0E1eNa4XZU3lIUBXfkp8sdi)
+22/11/2022, 16:09:21 - DEBUG - auth.service - login with username: ron (sid: vfI68l3Pl0E1eNa4XZU3lIUBXfkp8sdi)
+22/11/2022, 16:09:22 - INFO - Req from: ron shitrit (sid: vfI68l3Pl0E1eNa4XZU3lIUBXfkp8sdi)
+22/11/2022, 16:09:22 - ERROR - Cannot get boards | TypeError: collection.toArray is not a function (sid: vfI68l3Pl0E1eNa4XZU3lIUBXfkp8sdi)
+22/11/2022, 16:10:02 - INFO - Server is running on port: 3030 
+22/11/2022, 16:10:21 - INFO - Server is running on port: 3030 
+22/11/2022, 16:10:24 - DEBUG - auth.service - login with username: ron (sid: -UZ6_Zk3YdrbYklFIcv8imSVHeN_E7Wq)
+22/11/2022, 16:10:25 - DEBUG - auth.service - login with username: ron (sid: tQXUTXtSnHWdgWdr67_d8KgCDwoIfX16)
+22/11/2022, 16:10:25 - DEBUG - auth.service - login with username: ron (sid: Nklsi0nGyH6Z7OOcv1pGS4-mEuIm-1Dj)
+22/11/2022, 16:10:25 - INFO - Req from: ron shitrit (sid: -UZ6_Zk3YdrbYklFIcv8imSVHeN_E7Wq)
+22/11/2022, 16:10:25 - ERROR - Cannot get boards | TypeError: collection.toArray is not a function (sid: -UZ6_Zk3YdrbYklFIcv8imSVHeN_E7Wq)
+22/11/2022, 16:10:28 - INFO - Req from: ron shitrit (sid: Nklsi0nGyH6Z7OOcv1pGS4-mEuIm-1Dj)
+22/11/2022, 16:10:28 - ERROR - Cannot get boards | TypeError: collection.toArray is not a function (sid: Nklsi0nGyH6Z7OOcv1pGS4-mEuIm-1Dj)
+22/11/2022, 16:10:53 - INFO - Server is running on port: 3030 
+22/11/2022, 16:11:02 - DEBUG - auth.service - login with username: ron (sid: VMuwRhJhok3ivz0BuwlqscaoT8yOIEWe)
+22/11/2022, 16:11:02 - INFO - Req from: ron shitrit (sid: VMuwRhJhok3ivz0BuwlqscaoT8yOIEWe)
+22/11/2022, 16:11:14 - INFO - Server is running on port: 3030 
+22/11/2022, 16:13:27 - INFO - Server is running on port: 3030 
+22/11/2022, 16:13:39 - INFO - Server is running on port: 3030 
+22/11/2022, 16:13:50 - DEBUG - auth.service - login with username: ron (sid: JwSZZnqStd62h1FUaDDBgEep1GYsoKQh)
+22/11/2022, 16:13:51 - INFO - Req from: ron shitrit (sid: JwSZZnqStd62h1FUaDDBgEep1GYsoKQh)
+22/11/2022, 16:13:52 - ERROR - Cannot get boards | TypeError: Cannot read properties of null (reading '_id') (sid: JwSZZnqStd62h1FUaDDBgEep1GYsoKQh)
+22/11/2022, 16:14:58 - INFO - Server is running on port: 3030 
+22/11/2022, 16:15:10 - DEBUG - auth.service - login with username: ron (sid: IG1-nDzTlwZa0fOPK21LVMlZou6MapUG)
+22/11/2022, 16:15:10 - INFO - Req from: ron shitrit (sid: IG1-nDzTlwZa0fOPK21LVMlZou6MapUG)
+22/11/2022, 16:15:32 - INFO - Server is running on port: 3030 
+22/11/2022, 16:15:56 - DEBUG - auth.service - login with username: ron (sid: ZpsR8iTyOtmt0ejAXLn0Hajhii1vII2g)
+22/11/2022, 16:15:56 - INFO - Req from: ron shitrit (sid: ZpsR8iTyOtmt0ejAXLn0Hajhii1vII2g)
+22/11/2022, 16:16:04 - INFO - Server is running on port: 3030 
+22/11/2022, 16:17:26 - INFO - Server is running on port: 3030 
+22/11/2022, 16:17:33 - DEBUG - auth.service - login with username: ron (sid: AaWiKXm8ggoUpV3QEpEvZSXpd3xARMem)
+22/11/2022, 16:17:34 - INFO - Req from: ron shitrit (sid: AaWiKXm8ggoUpV3QEpEvZSXpd3xARMem)
+22/11/2022, 16:17:34 - ERROR - Cannot get boards | TypeError: Cannot read properties of null (reading '_id') (sid: AaWiKXm8ggoUpV3QEpEvZSXpd3xARMem)
+22/11/2022, 16:19:43 - INFO - Req from: ron shitrit (sid: AaWiKXm8ggoUpV3QEpEvZSXpd3xARMem)
+22/11/2022, 16:19:48 - INFO - Req from: ron shitrit (sid: AaWiKXm8ggoUpV3QEpEvZSXpd3xARMem)
+22/11/2022, 16:19:48 - INFO - Req from: ron shitrit (sid: AaWiKXm8ggoUpV3QEpEvZSXpd3xARMem)
+22/11/2022, 16:19:49 - INFO - Req from: ron shitrit (sid: AaWiKXm8ggoUpV3QEpEvZSXpd3xARMem)
+22/11/2022, 16:19:51 - INFO - Req from: ron shitrit (sid: AaWiKXm8ggoUpV3QEpEvZSXpd3xARMem)
+22/11/2022, 16:20:12 - INFO - Req from: ron shitrit (sid: AaWiKXm8ggoUpV3QEpEvZSXpd3xARMem)
+22/11/2022, 16:20:12 - INFO - Req from: ron shitrit (sid: AaWiKXm8ggoUpV3QEpEvZSXpd3xARMem)
+22/11/2022, 16:20:13 - INFO - Req from: ron shitrit (sid: AaWiKXm8ggoUpV3QEpEvZSXpd3xARMem)
+22/11/2022, 16:20:21 - DEBUG - auth.service - login with username: user (sid: AaWiKXm8ggoUpV3QEpEvZSXpd3xARMem)
+22/11/2022, 16:20:21 - INFO - Req from: user user  (sid: AaWiKXm8ggoUpV3QEpEvZSXpd3xARMem)
+22/11/2022, 16:20:27 - INFO - Req from: user user  (sid: AaWiKXm8ggoUpV3QEpEvZSXpd3xARMem)
+22/11/2022, 16:21:15 - INFO - Server is running on port: 3030 
+22/11/2022, 16:21:23 - DEBUG - auth.service - login with username: ron (sid: 5zUrdYdj9QbX0dFbi-HRAmyVK8gIvKxq)
+22/11/2022, 16:21:23 - INFO - Req from: ron shitrit (sid: 5zUrdYdj9QbX0dFbi-HRAmyVK8gIvKxq)
+22/11/2022, 16:21:54 - INFO - Server is running on port: 3030 
+22/11/2022, 16:22:01 - DEBUG - auth.service - login with username: ron (sid: 3ZPNZVkYYqI1G_18VBNLJt7KVV91_nUA)
+22/11/2022, 16:22:01 - INFO - Req from: ron shitrit (sid: 3ZPNZVkYYqI1G_18VBNLJt7KVV91_nUA)
+22/11/2022, 16:22:28 - INFO - Server is running on port: 3030 
+22/11/2022, 16:22:36 - DEBUG - auth.service - login with username: ron (sid: V-1ZYZGgDd7n91PEvjXYH0EeaSs2jxNl)
+22/11/2022, 16:22:36 - INFO - Req from: ron shitrit (sid: V-1ZYZGgDd7n91PEvjXYH0EeaSs2jxNl)
+22/11/2022, 16:23:31 - INFO - Server is running on port: 3030 
+22/11/2022, 16:23:38 - DEBUG - auth.service - login with username: ron (sid: HV_UsS-AmzMZd310nrhKJ5eSxeF3m6C5)
+22/11/2022, 16:23:39 - INFO - Req from: ron shitrit (sid: HV_UsS-AmzMZd310nrhKJ5eSxeF3m6C5)
+22/11/2022, 16:24:03 - INFO - Server is running on port: 3030 
+22/11/2022, 16:25:32 - INFO - Server is running on port: 3030 
+22/11/2022, 16:25:39 - DEBUG - auth.service - login with username: ron (sid: QKWYkFY37xpD3KoNxf3po78H3_NspESA)
+22/11/2022, 16:25:39 - INFO - Req from: ron shitrit (sid: QKWYkFY37xpD3KoNxf3po78H3_NspESA)
+22/11/2022, 16:25:48 - DEBUG - auth.service - login with username: user (sid: QKWYkFY37xpD3KoNxf3po78H3_NspESA)
+22/11/2022, 16:25:49 - INFO - Req from: user user  (sid: QKWYkFY37xpD3KoNxf3po78H3_NspESA)
+22/11/2022, 16:25:52 - INFO - Req from: user user  (sid: QKWYkFY37xpD3KoNxf3po78H3_NspESA)
+22/11/2022, 16:27:11 - INFO - Server is running on port: 3030 
+22/11/2022, 16:27:19 - DEBUG - auth.service - login with username: ron (sid: jykHbGEWlK7viLoz8kN_oevRgCh_0eZd)
+22/11/2022, 16:27:19 - INFO - Req from: ron shitrit (sid: jykHbGEWlK7viLoz8kN_oevRgCh_0eZd)
+22/11/2022, 16:27:22 - INFO - Req from: ron shitrit (sid: jykHbGEWlK7viLoz8kN_oevRgCh_0eZd)
+22/11/2022, 16:27:24 - INFO - Req from: ron shitrit (sid: jykHbGEWlK7viLoz8kN_oevRgCh_0eZd)
+22/11/2022, 16:27:25 - INFO - Req from: ron shitrit (sid: jykHbGEWlK7viLoz8kN_oevRgCh_0eZd)
+22/11/2022, 16:27:28 - INFO - Req from: ron shitrit (sid: jykHbGEWlK7viLoz8kN_oevRgCh_0eZd)
+22/11/2022, 16:27:29 - INFO - Req from: ron shitrit (sid: jykHbGEWlK7viLoz8kN_oevRgCh_0eZd)
+22/11/2022, 16:27:36 - DEBUG - auth.service - login with username: user (sid: jykHbGEWlK7viLoz8kN_oevRgCh_0eZd)
+22/11/2022, 16:27:37 - INFO - Req from: user user  (sid: jykHbGEWlK7viLoz8kN_oevRgCh_0eZd)
+22/11/2022, 16:27:38 - INFO - Req from: user user  (sid: jykHbGEWlK7viLoz8kN_oevRgCh_0eZd)
+22/11/2022, 16:27:39 - INFO - Req from: user user  (sid: jykHbGEWlK7viLoz8kN_oevRgCh_0eZd)
+22/11/2022, 16:28:22 - INFO - Server is running on port: 3030 
+22/11/2022, 16:28:29 - DEBUG - auth.service - login with username: ron (sid: AJz2tWrl6IpKtO9-uSd0suGZb3KhdRQZ)
+22/11/2022, 16:28:29 - INFO - Req from: ron shitrit (sid: AJz2tWrl6IpKtO9-uSd0suGZb3KhdRQZ)
+22/11/2022, 16:28:35 - DEBUG - auth.service - login with username: user (sid: AJz2tWrl6IpKtO9-uSd0suGZb3KhdRQZ)
+22/11/2022, 16:28:35 - INFO - Req from: user user  (sid: AJz2tWrl6IpKtO9-uSd0suGZb3KhdRQZ)
+22/11/2022, 16:28:46 - INFO - Server is running on port: 3030 
+22/11/2022, 16:28:50 - INFO - Server is running on port: 3030 
+22/11/2022, 16:29:02 - DEBUG - auth.service - login with username: ron (sid: tDNzTxCgw9Zh12jplK-48KIgqmS2wUnr)
+22/11/2022, 16:29:02 - INFO - Req from: ron shitrit (sid: tDNzTxCgw9Zh12jplK-48KIgqmS2wUnr)
+22/11/2022, 16:32:28 - INFO - Req from: ron shitrit (sid: tDNzTxCgw9Zh12jplK-48KIgqmS2wUnr)
+22/11/2022, 16:32:30 - INFO - Req from: ron shitrit (sid: tDNzTxCgw9Zh12jplK-48KIgqmS2wUnr)
+22/11/2022, 16:32:31 - INFO - Req from: ron shitrit (sid: tDNzTxCgw9Zh12jplK-48KIgqmS2wUnr)
+22/11/2022, 16:32:33 - INFO - Req from: ron shitrit (sid: tDNzTxCgw9Zh12jplK-48KIgqmS2wUnr)
+22/11/2022, 16:36:25 - INFO - Server is running on port: 3030 
+22/11/2022, 16:43:41 - INFO - Server is running on port: 3030 
+22/11/2022, 16:43:55 - DEBUG - auth.service - login with username: ron (sid: IWktYJWNgGqm74w2rwkfYr7iCalMjbHO)
+22/11/2022, 16:43:56 - INFO - Req from: ron shitrit (sid: IWktYJWNgGqm74w2rwkfYr7iCalMjbHO)
+22/11/2022, 16:43:57 - INFO - Req from: ron shitrit (sid: IWktYJWNgGqm74w2rwkfYr7iCalMjbHO)
+22/11/2022, 16:44:00 - INFO - Req from: ron shitrit (sid: IWktYJWNgGqm74w2rwkfYr7iCalMjbHO)
+22/11/2022, 16:48:29 - INFO - Server is running on port: 3030 
+22/11/2022, 16:52:54 - INFO - Server is running on port: 3030 
+22/11/2022, 16:53:00 - INFO - Server is running on port: 3030 
+22/11/2022, 16:53:39 - INFO - Server is running on port: 3030 
+22/11/2022, 16:54:10 - INFO - Server is running on port: 3030 
+22/11/2022, 16:54:17 - INFO - Server is running on port: 3030 
+22/11/2022, 16:54:32 - INFO - Server is running on port: 3030 
+22/11/2022, 16:54:39 - INFO - Server is running on port: 3030 
+22/11/2022, 16:54:52 - INFO - Server is running on port: 3030 
+22/11/2022, 16:54:59 - INFO - Server is running on port: 3030 
+22/11/2022, 16:57:49 - DEBUG - auth.service - login with username: ron (sid: zRl6asktc_LUAEuUx53AKkqs2kmkzCZC)
+22/11/2022, 16:57:50 - INFO - Req from: ron shitrit (sid: zRl6asktc_LUAEuUx53AKkqs2kmkzCZC)
+22/11/2022, 17:00:35 - INFO - Server is running on port: 3030 
+22/11/2022, 17:04:35 - INFO - Server is running on port: 3030 
+22/11/2022, 17:04:40 - INFO - Server is running on port: 3030 
+22/11/2022, 17:05:34 - INFO - Server is running on port: 3030 
+22/11/2022, 17:07:13 - INFO - Server is running on port: 3030 
+22/11/2022, 17:08:25 - INFO - Server is running on port: 3030 
+22/11/2022, 17:08:34 - INFO - Server is running on port: 3030 
+22/11/2022, 17:09:03 - INFO - Server is running on port: 3030 
+22/11/2022, 17:10:48 - INFO - Server is running on port: 3030 
+22/11/2022, 17:11:05 - INFO - Server is running on port: 3030 
+22/11/2022, 17:12:03 - INFO - Server is running on port: 3030 
+22/11/2022, 17:13:18 - INFO - Server is running on port: 3030 
+22/11/2022, 17:13:48 - INFO - Server is running on port: 3030 
+22/11/2022, 17:14:30 - INFO - Server is running on port: 3030 
+22/11/2022, 17:14:49 - INFO - Server is running on port: 3030 
+22/11/2022, 17:15:00 - INFO - Server is running on port: 3030 
+22/11/2022, 17:15:15 - INFO - Server is running on port: 3030 
+22/11/2022, 17:15:19 - INFO - Server is running on port: 3030 
+22/11/2022, 17:16:00 - INFO - Server is running on port: 3030 
+22/11/2022, 17:16:27 - INFO - Server is running on port: 3030 
+22/11/2022, 17:16:32 - INFO - Server is running on port: 3030 
+22/11/2022, 17:20:07 - INFO - Server is running on port: 3030 
+22/11/2022, 17:21:26 - INFO - Server is running on port: 3030 
+22/11/2022, 17:21:55 - INFO - Server is running on port: 3030 
+22/11/2022, 17:22:26 - INFO - Server is running on port: 3030 
+22/11/2022, 17:22:46 - INFO - Server is running on port: 3030 
+22/11/2022, 17:30:54 - INFO - Server is running on port: 3030 
+22/11/2022, 17:31:38 - INFO - Server is running on port: 3030 
+22/11/2022, 17:31:44 - INFO - Req from: Ron Shitrit (sid: dnkytHQ8938YvDPdKYktC2-bE5kUr7xt)
+22/11/2022, 17:31:48 - INFO - Req from: Ron Shitrit (sid: dnkytHQ8938YvDPdKYktC2-bE5kUr7xt)
+22/11/2022, 17:31:55 - INFO - Req from: Ron Shitrit (sid: dnkytHQ8938YvDPdKYktC2-bE5kUr7xt)
+22/11/2022, 17:34:12 - INFO - Server is running on port: 3030 
+22/11/2022, 17:35:17 - INFO - Server is running on port: 3030 
+22/11/2022, 17:40:24 - INFO - Server is running on port: 3030 
+22/11/2022, 17:43:11 - INFO - Server is running on port: 3030 
+22/11/2022, 17:43:20 - INFO - Req from: Ron Shitrit (sid: pHWVityaZTYj_v85SYZPYLh-dCwMyUwy)
+22/11/2022, 17:44:06 - INFO - Req from: Ron Shitrit (sid: pHWVityaZTYj_v85SYZPYLh-dCwMyUwy)
+22/11/2022, 17:44:19 - INFO - Req from: Ron Shitrit (sid: pHWVityaZTYj_v85SYZPYLh-dCwMyUwy)
+22/11/2022, 17:44:19 - INFO - Req from: Ron Shitrit (sid: pHWVityaZTYj_v85SYZPYLh-dCwMyUwy)
+22/11/2022, 17:44:22 - INFO - Req from: Ron Shitrit (sid: pHWVityaZTYj_v85SYZPYLh-dCwMyUwy)
+22/11/2022, 17:44:22 - INFO - Req from: Ron Shitrit (sid: pHWVityaZTYj_v85SYZPYLh-dCwMyUwy)
+22/11/2022, 17:44:31 - INFO - Req from: Ronshi undefined (sid: pHWVityaZTYj_v85SYZPYLh-dCwMyUwy)
+22/11/2022, 17:45:11 - INFO - Req from: Ron Shitrit (sid: pHWVityaZTYj_v85SYZPYLh-dCwMyUwy)
+22/11/2022, 17:45:18 - INFO - Req from: Ronshi undefined (sid: pHWVityaZTYj_v85SYZPYLh-dCwMyUwy)
+22/11/2022, 17:45:26 - INFO - Req from: Ron Shitrit (sid: pHWVityaZTYj_v85SYZPYLh-dCwMyUwy)
+22/11/2022, 17:45:30 - INFO - Req from: Ron Shitrit (sid: pHWVityaZTYj_v85SYZPYLh-dCwMyUwy)
+22/11/2022, 17:45:36 - INFO - Req from: Ron Shitrit (sid: pHWVityaZTYj_v85SYZPYLh-dCwMyUwy)
+22/11/2022, 17:45:53 - INFO - Req from: Ron Shitrit (sid: pHWVityaZTYj_v85SYZPYLh-dCwMyUwy)
+22/11/2022, 17:45:59 - INFO - Req from: Ronshi undefined (sid: pHWVityaZTYj_v85SYZPYLh-dCwMyUwy)
+22/11/2022, 17:46:00 - INFO - Req from: Ronshi undefined (sid: pHWVityaZTYj_v85SYZPYLh-dCwMyUwy)
+22/11/2022, 17:46:15 - INFO - Req from: Ronshi undefined (sid: pHWVityaZTYj_v85SYZPYLh-dCwMyUwy)
+22/11/2022, 17:46:19 - INFO - Req from: Ronshi undefined (sid: pHWVityaZTYj_v85SYZPYLh-dCwMyUwy)
+22/11/2022, 17:46:20 - INFO - Req from: Ronshi undefined (sid: pHWVityaZTYj_v85SYZPYLh-dCwMyUwy)
+22/11/2022, 17:46:21 - INFO - Req from: Ronshi undefined (sid: pHWVityaZTYj_v85SYZPYLh-dCwMyUwy)
+22/11/2022, 17:46:40 - INFO - Server is running on port: 3030 
+22/11/2022, 17:47:03 - INFO - Server is running on port: 3030 
+22/11/2022, 17:47:14 - INFO - Req from: Ron Shitrit (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 17:47:17 - INFO - Req from: Ron Shitrit (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 17:47:18 - INFO - Req from: Ron Shitrit (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 17:49:41 - INFO - Req from: Ron Shitrit (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 17:50:56 - INFO - Req from: Ron Shitrit (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 17:50:57 - INFO - Req from: Ron Shitrit (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 17:51:02 - INFO - Req from: Ron Shitrit (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 17:51:02 - INFO - Req from: Ron Shitrit (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 17:52:16 - INFO - Req from: Ron Shitrit (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 17:52:31 - INFO - Req from: Ron Shitrit (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 17:52:36 - INFO - Req from: Ron Shitrit (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 17:52:36 - INFO - Req from: Ron Shitrit (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 17:52:38 - INFO - Req from: Ron Shitrit (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 17:52:40 - INFO - Req from: Ron Shitrit (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 17:52:41 - INFO - Req from: Ron Shitrit (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 17:52:42 - INFO - Req from: Ron Shitrit (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 17:58:31 - INFO - Req from: Ron Shitrit (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 17:58:34 - INFO - Req from: Ron Shitrit (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 17:58:35 - INFO - Req from: Ron Shitrit (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 17:58:37 - INFO - Req from: Ron Shitrit (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 17:58:44 - INFO - Req from: Ron Shitrit (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 17:58:44 - INFO - Req from: Ron Shitrit (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 17:58:46 - INFO - Req from: Ron Shitrit (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 17:58:48 - INFO - Req from: Ron Shitrit (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 17:58:52 - INFO - Req from: Ron Shitrit (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 17:58:54 - INFO - Req from: Ron Shitrit (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 17:58:55 - INFO - Req from: Ron Shitrit (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 17:58:56 - INFO - Req from: Ron Shitrit (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 17:59:04 - INFO - Req from: Ron Shitrit (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 17:59:54 - INFO - Req from: Ron Shitrit (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 18:00:10 - INFO - Req from: Ron Shitrit (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 18:00:17 - INFO - Req from: Ron Shitrit (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 18:00:17 - INFO - Req from: Ron Shitrit (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 18:00:34 - INFO - Req from: Ron Shitrit (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 18:02:20 - INFO - Req from: Ron Shitrit (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 18:02:24 - INFO - Req from: Ron Shitrit (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 18:02:25 - INFO - Req from: Ron Shitrit (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 18:02:26 - INFO - Req from: Ron Shitrit (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 18:02:27 - INFO - Req from: Ron Shitrit (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 18:02:28 - INFO - Req from: Ron Shitrit (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 18:02:29 - INFO - Req from: Ron Shitrit (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 18:02:42 - INFO - Req from: Ron Shitrit (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 18:02:43 - INFO - Req from: Ron Shitrit (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 18:02:47 - INFO - Req from: Ron Shitrit (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 18:02:47 - INFO - Req from: Ron Shitrit (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 18:02:51 - INFO - Req from: Ron Shitrit (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 18:33:36 - INFO - Req from: Ron Shitrit (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 19:16:43 - INFO - Req from: Ronshi undefined (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 19:17:22 - INFO - Req from: Ronshi undefined (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 19:17:24 - INFO - Req from: Ronshi undefined (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 19:17:26 - INFO - Req from: Ronshi undefined (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 19:17:32 - INFO - Req from: Ronshi undefined (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 19:17:32 - INFO - Req from: Ronshi undefined (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 19:17:33 - INFO - Req from: Ronshi undefined (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 19:21:59 - INFO - Req from: Ronshi undefined (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 19:22:41 - INFO - Req from: Ronshi undefined (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 19:24:14 - INFO - Req from: Ronshi undefined (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 19:24:15 - INFO - Req from: Ronshi undefined (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 19:24:18 - INFO - Req from: Ronshi undefined (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 19:24:19 - INFO - Req from: Ronshi undefined (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 19:24:25 - INFO - Req from: Ronshi undefined (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 19:24:27 - INFO - Req from: Ronshi undefined (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 19:24:30 - INFO - Req from: Ronshi undefined (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 19:24:31 - INFO - Req from: Ronshi undefined (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 19:27:03 - INFO - Req from: Ronshi undefined (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 19:27:05 - INFO - Req from: Ronshi undefined (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 19:27:09 - INFO - Req from: Ronshi undefined (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 19:27:16 - INFO - Req from: Ronshi undefined (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 19:27:17 - INFO - Req from: Ronshi undefined (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 19:28:25 - INFO - Req from: Ronshi undefined (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 19:28:28 - INFO - Req from: Ronshi undefined (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 19:28:32 - INFO - Req from: Ronshi undefined (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 19:28:35 - INFO - Req from: Ronshi undefined (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 19:28:37 - INFO - Req from: Ronshi undefined (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 19:28:38 - INFO - Req from: Ronshi undefined (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 19:29:32 - INFO - Req from: Ronshi undefined (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 19:29:38 - INFO - Req from: Ronshi undefined (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 19:29:38 - INFO - Req from: Ronshi undefined (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 19:29:38 - INFO - Req from: Ronshi undefined (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 19:29:40 - INFO - Req from: Ronshi undefined (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 19:29:41 - INFO - Req from: Ronshi undefined (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 19:30:33 - INFO - Req from: Ronshi undefined (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 19:30:35 - INFO - Req from: Ronshi undefined (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 19:30:40 - INFO - Req from: Ronshi undefined (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 19:30:40 - INFO - Req from: Ronshi undefined (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 19:30:41 - INFO - Req from: Ronshi undefined (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 19:30:41 - INFO - Req from: Ronshi undefined (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 19:30:42 - INFO - Req from: Ronshi undefined (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 19:30:43 - INFO - Req from: Ronshi undefined (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 19:30:45 - INFO - Req from: Ronshi undefined (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 19:30:46 - INFO - Req from: Ronshi undefined (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 19:31:04 - INFO - Req from: Ronshi undefined (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 19:31:05 - INFO - Req from: Ronshi undefined (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 19:31:06 - INFO - Req from: Ronshi undefined (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 19:31:08 - INFO - Req from: Ronshi undefined (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 19:31:09 - INFO - Req from: Ronshi undefined (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 19:31:09 - INFO - Req from: Ronshi undefined (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 19:31:10 - INFO - Req from: Ronshi undefined (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 19:31:11 - INFO - Req from: Ronshi undefined (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 19:31:16 - INFO - Req from: Ronshi undefined (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 19:31:18 - INFO - Req from: Ronshi undefined (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 19:31:20 - INFO - Req from: Ronshi undefined (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 19:31:27 - INFO - Req from: Ronshi undefined (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 19:31:29 - INFO - Req from: Ronshi undefined (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 19:31:30 - INFO - Req from: Ronshi undefined (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 19:31:31 - INFO - Req from: Ronshi undefined (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 19:31:33 - INFO - Req from: Ronshi undefined (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 19:31:37 - INFO - Req from: Ronshi undefined (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 19:31:37 - INFO - Req from: Ronshi undefined (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+22/11/2022, 19:31:38 - INFO - Req from: Ronshi undefined (sid: HkiHBn-hff1zguUBRQvI7sTk6CMGAQSm)
+23/11/2022, 14:11:45 - INFO - Server is running on port: 3030 
+23/11/2022, 14:11:55 - INFO - Req from: Ron Shitrit (sid: iXFs2ZdPnVObq5LQw4JhS2ETsWxWQn3E)
+23/11/2022, 14:12:04 - INFO - Req from: Ronshi undefined (sid: iXFs2ZdPnVObq5LQw4JhS2ETsWxWQn3E)
+23/11/2022, 14:12:07 - INFO - Req from: Ronshi undefined (sid: iXFs2ZdPnVObq5LQw4JhS2ETsWxWQn3E)
+23/11/2022, 14:12:09 - INFO - Req from: Ronshi undefined (sid: iXFs2ZdPnVObq5LQw4JhS2ETsWxWQn3E)
+23/11/2022, 14:12:10 - INFO - Req from: Ronshi undefined (sid: iXFs2ZdPnVObq5LQw4JhS2ETsWxWQn3E)
+23/11/2022, 14:12:11 - INFO - Req from: Ronshi undefined (sid: iXFs2ZdPnVObq5LQw4JhS2ETsWxWQn3E)
+23/11/2022, 14:13:26 - INFO - Req from: Ronshi undefined (sid: iXFs2ZdPnVObq5LQw4JhS2ETsWxWQn3E)
+23/11/2022, 14:13:27 - INFO - Req from: Ronshi undefined (sid: iXFs2ZdPnVObq5LQw4JhS2ETsWxWQn3E)
+23/11/2022, 14:13:29 - INFO - Req from: Ronshi undefined (sid: iXFs2ZdPnVObq5LQw4JhS2ETsWxWQn3E)
+23/11/2022, 14:23:19 - INFO - Req from: Ronshi undefined (sid: iXFs2ZdPnVObq5LQw4JhS2ETsWxWQn3E)
+23/11/2022, 14:23:20 - INFO - Req from: Ronshi undefined (sid: iXFs2ZdPnVObq5LQw4JhS2ETsWxWQn3E)
+23/11/2022, 14:23:21 - INFO - Req from: Ronshi undefined (sid: iXFs2ZdPnVObq5LQw4JhS2ETsWxWQn3E)
+23/11/2022, 14:23:22 - INFO - Req from: Ronshi undefined (sid: iXFs2ZdPnVObq5LQw4JhS2ETsWxWQn3E)
+23/11/2022, 14:23:22 - INFO - Req from: Ronshi undefined (sid: iXFs2ZdPnVObq5LQw4JhS2ETsWxWQn3E)
+23/11/2022, 14:23:31 - INFO - Req from: Ron Shitrit (sid: iXFs2ZdPnVObq5LQw4JhS2ETsWxWQn3E)
+23/11/2022, 14:23:32 - INFO - Req from: Ron Shitrit (sid: iXFs2ZdPnVObq5LQw4JhS2ETsWxWQn3E)
+23/11/2022, 14:23:33 - INFO - Req from: Ron Shitrit (sid: iXFs2ZdPnVObq5LQw4JhS2ETsWxWQn3E)
+23/11/2022, 14:23:40 - INFO - Req from: Ron Shitrit (sid: iXFs2ZdPnVObq5LQw4JhS2ETsWxWQn3E)
+23/11/2022, 14:23:40 - INFO - Req from: Ron Shitrit (sid: iXFs2ZdPnVObq5LQw4JhS2ETsWxWQn3E)
+23/11/2022, 14:23:44 - INFO - Req from: Ron Shitrit (sid: iXFs2ZdPnVObq5LQw4JhS2ETsWxWQn3E)
+23/11/2022, 14:23:45 - INFO - Req from: Ron Shitrit (sid: iXFs2ZdPnVObq5LQw4JhS2ETsWxWQn3E)
+23/11/2022, 15:07:34 - INFO - Req from: Ron Shitrit (sid: iXFs2ZdPnVObq5LQw4JhS2ETsWxWQn3E)
+23/11/2022, 15:09:10 - INFO - Req from: Ron Shitrit (sid: iXFs2ZdPnVObq5LQw4JhS2ETsWxWQn3E)
+23/11/2022, 15:09:17 - INFO - Req from: Ron Shitrit (sid: iXFs2ZdPnVObq5LQw4JhS2ETsWxWQn3E)
+23/11/2022, 15:09:20 - INFO - Req from: Ron Shitrit (sid: iXFs2ZdPnVObq5LQw4JhS2ETsWxWQn3E)
+23/11/2022, 15:09:22 - INFO - Req from: Ron Shitrit (sid: iXFs2ZdPnVObq5LQw4JhS2ETsWxWQn3E)
+23/11/2022, 15:09:34 - INFO - Req from: Ron Shitrit (sid: iXFs2ZdPnVObq5LQw4JhS2ETsWxWQn3E)
+23/11/2022, 15:15:25 - INFO - Req from: Ron Shitrit (sid: iXFs2ZdPnVObq5LQw4JhS2ETsWxWQn3E)
+23/11/2022, 15:15:35 - INFO - Req from: Ron Shitrit (sid: iXFs2ZdPnVObq5LQw4JhS2ETsWxWQn3E)
+23/11/2022, 15:18:18 - INFO - Server is running on port: 3030 
+23/11/2022, 15:29:29 - INFO - Server is running on port: 3030 
+23/11/2022, 15:30:14 - INFO - Server is running on port: 3030 
+23/11/2022, 15:30:57 - INFO - Req from: Ron Shitrit (sid: jzYz7ejtBgcjFcxnbGJumF__yWr4ww69)
+23/11/2022, 15:30:58 - INFO - Req from: Ron Shitrit (sid: jzYz7ejtBgcjFcxnbGJumF__yWr4ww69)
+23/11/2022, 15:31:43 - INFO - Server is running on port: 3030 
+23/11/2022, 15:32:01 - INFO - Server is running on port: 3030 
+23/11/2022, 15:32:16 - INFO - Req from: Ron Shitrit (sid: FoSuxdeDPoWagYZ_FkahWbVixZUe-ar9)
+23/11/2022, 15:32:18 - INFO - Req from: Ron Shitrit (sid: FoSuxdeDPoWagYZ_FkahWbVixZUe-ar9)
+23/11/2022, 15:32:32 - INFO - Server is running on port: 3030 
+23/11/2022, 15:33:43 - INFO - Server is running on port: 3030 
+23/11/2022, 15:37:50 - INFO - Server is running on port: 3030 
+23/11/2022, 15:46:04 - INFO - Server is running on port: 3030 
+23/11/2022, 15:48:41 - INFO - Server is running on port: 3030 
+23/11/2022, 15:51:44 - INFO - Server is running on port: 3030 
+23/11/2022, 15:52:12 - INFO - Server is running on port: 3030 
+23/11/2022, 15:52:49 - INFO - Server is running on port: 3030 
+23/11/2022, 15:56:53 - INFO - Server is running on port: 3030 
+23/11/2022, 15:57:05 - INFO - Req from: Ron Shitrit (sid: s8rPH8Zx1oPKpJVGvMZqW-jk5phaNDlC)
+23/11/2022, 15:57:18 - INFO - Req from: Ron Shitrit (sid: s8rPH8Zx1oPKpJVGvMZqW-jk5phaNDlC)
+23/11/2022, 15:58:35 - INFO - Req from: Ron Shitrit (sid: s8rPH8Zx1oPKpJVGvMZqW-jk5phaNDlC)
+23/11/2022, 15:58:36 - INFO - Req from: Ron Shitrit (sid: s8rPH8Zx1oPKpJVGvMZqW-jk5phaNDlC)
+23/11/2022, 15:58:45 - INFO - Req from: Ron Shitrit (sid: s8rPH8Zx1oPKpJVGvMZqW-jk5phaNDlC)
+23/11/2022, 15:59:13 - INFO - Req from: Ron Shitrit (sid: s8rPH8Zx1oPKpJVGvMZqW-jk5phaNDlC)
+23/11/2022, 15:59:24 - INFO - Req from: Ron Shitrit (sid: s8rPH8Zx1oPKpJVGvMZqW-jk5phaNDlC)
+23/11/2022, 15:59:34 - INFO - Req from: Ron Shitrit (sid: s8rPH8Zx1oPKpJVGvMZqW-jk5phaNDlC)
+23/11/2022, 15:59:42 - INFO - Req from: Ron Shitrit (sid: s8rPH8Zx1oPKpJVGvMZqW-jk5phaNDlC)
+23/11/2022, 16:00:07 - INFO - Req from: Ron Shitrit (sid: s8rPH8Zx1oPKpJVGvMZqW-jk5phaNDlC)
+23/11/2022, 16:00:10 - INFO - Req from: Ron Shitrit (sid: s8rPH8Zx1oPKpJVGvMZqW-jk5phaNDlC)
+23/11/2022, 16:00:10 - INFO - Req from: Ron Shitrit (sid: s8rPH8Zx1oPKpJVGvMZqW-jk5phaNDlC)
+23/11/2022, 16:00:19 - INFO - Req from: Ron Shitrit (sid: s8rPH8Zx1oPKpJVGvMZqW-jk5phaNDlC)
+23/11/2022, 16:00:21 - INFO - Req from: Ron Shitrit (sid: s8rPH8Zx1oPKpJVGvMZqW-jk5phaNDlC)
+23/11/2022, 16:01:11 - INFO - Req from: Ron Shitrit (sid: s8rPH8Zx1oPKpJVGvMZqW-jk5phaNDlC)
+23/11/2022, 16:01:11 - INFO - Req from: Ron Shitrit (sid: s8rPH8Zx1oPKpJVGvMZqW-jk5phaNDlC)
+23/11/2022, 16:01:15 - INFO - Req from: Ron Shitrit (sid: s8rPH8Zx1oPKpJVGvMZqW-jk5phaNDlC)
+23/11/2022, 16:01:19 - INFO - Req from: Ron Shitrit (sid: s8rPH8Zx1oPKpJVGvMZqW-jk5phaNDlC)
+23/11/2022, 16:01:21 - INFO - Req from: Ron Shitrit (sid: s8rPH8Zx1oPKpJVGvMZqW-jk5phaNDlC)
+23/11/2022, 16:02:27 - INFO - Server is running on port: 3030 
+23/11/2022, 16:03:05 - INFO - Server is running on port: 3030 
+23/11/2022, 16:10:33 - INFO - Server is running on port: 3030 
+23/11/2022, 16:12:24 - INFO - Server is running on port: 3030 
+23/11/2022, 16:15:47 - INFO - Server is running on port: 3030 
+23/11/2022, 16:16:36 - INFO - Server is running on port: 3030 
+23/11/2022, 16:17:18 - INFO - Server is running on port: 3030 
+23/11/2022, 16:20:36 - INFO - Server is running on port: 3030 
+23/11/2022, 16:28:51 - INFO - Server is running on port: 3030 
+23/11/2022, 16:30:28 - INFO - Server is running on port: 3030 
+23/11/2022, 16:30:41 - INFO - Server is running on port: 3030 
+23/11/2022, 16:33:52 - INFO - Req from: Ron Shitrit (sid: 5zzziPbcqNEaICXC8_LapI7SIAcjjWag)
+23/11/2022, 16:33:53 - INFO - Req from: Ron Shitrit (sid: 5zzziPbcqNEaICXC8_LapI7SIAcjjWag)
+23/11/2022, 16:33:57 - INFO - Req from: Ron Shitrit (sid: 5zzziPbcqNEaICXC8_LapI7SIAcjjWag)
+23/11/2022, 16:34:24 - INFO - Req from: Ron Shitrit (sid: 5zzziPbcqNEaICXC8_LapI7SIAcjjWag)
+23/11/2022, 16:34:51 - INFO - Req from: Ron Shitrit (sid: 5zzziPbcqNEaICXC8_LapI7SIAcjjWag)
+23/11/2022, 16:35:02 - INFO - Req from: Ron Shitrit (sid: 5zzziPbcqNEaICXC8_LapI7SIAcjjWag)
+23/11/2022, 16:35:03 - INFO - Req from: Ron Shitrit (sid: 5zzziPbcqNEaICXC8_LapI7SIAcjjWag)
+23/11/2022, 16:35:04 - INFO - Req from: Ron Shitrit (sid: 5zzziPbcqNEaICXC8_LapI7SIAcjjWag)
+23/11/2022, 16:35:05 - INFO - Req from: Ron Shitrit (sid: 5zzziPbcqNEaICXC8_LapI7SIAcjjWag)
+23/11/2022, 16:35:40 - INFO - Req from: Ron Shitrit (sid: 5zzziPbcqNEaICXC8_LapI7SIAcjjWag)
+23/11/2022, 16:35:41 - INFO - Req from: Ron Shitrit (sid: 5zzziPbcqNEaICXC8_LapI7SIAcjjWag)
+23/11/2022, 16:35:41 - INFO - Req from: Ron Shitrit (sid: 5zzziPbcqNEaICXC8_LapI7SIAcjjWag)
+23/11/2022, 16:38:46 - INFO - Req from: Ron Shitrit (sid: 5zzziPbcqNEaICXC8_LapI7SIAcjjWag)
+23/11/2022, 16:38:47 - INFO - Req from: Ron Shitrit (sid: 5zzziPbcqNEaICXC8_LapI7SIAcjjWag)
+23/11/2022, 16:38:48 - INFO - Req from: Ron Shitrit (sid: 5zzziPbcqNEaICXC8_LapI7SIAcjjWag)
+23/11/2022, 16:38:51 - INFO - Req from: Ron Shitrit (sid: 5zzziPbcqNEaICXC8_LapI7SIAcjjWag)
+23/11/2022, 16:38:53 - INFO - Req from: Ron Shitrit (sid: 5zzziPbcqNEaICXC8_LapI7SIAcjjWag)
+23/11/2022, 16:42:24 - INFO - Req from: Ron Shitrit (sid: 5zzziPbcqNEaICXC8_LapI7SIAcjjWag)
+23/11/2022, 16:42:25 - INFO - Req from: Ron Shitrit (sid: 5zzziPbcqNEaICXC8_LapI7SIAcjjWag)
+23/11/2022, 16:42:26 - INFO - Req from: Ron Shitrit (sid: 5zzziPbcqNEaICXC8_LapI7SIAcjjWag)
+23/11/2022, 17:21:18 - INFO - Req from: Ron Shitrit (sid: 5zzziPbcqNEaICXC8_LapI7SIAcjjWag)
+23/11/2022, 17:21:21 - INFO - Req from: Ron Shitrit (sid: 5zzziPbcqNEaICXC8_LapI7SIAcjjWag)
+23/11/2022, 17:21:26 - INFO - Req from: Ron Shitrit (sid: 5zzziPbcqNEaICXC8_LapI7SIAcjjWag)
+23/11/2022, 17:21:29 - INFO - Req from: Ron Shitrit (sid: 5zzziPbcqNEaICXC8_LapI7SIAcjjWag)
+23/11/2022, 17:21:39 - INFO - Server is running on port: 3030 
+23/11/2022, 17:24:31 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 17:24:32 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 17:24:44 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 17:24:46 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 17:25:55 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 17:29:57 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 17:33:51 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 17:33:52 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 17:33:58 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 17:33:59 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 17:38:17 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 17:40:56 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 17:41:14 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 17:42:44 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 17:43:12 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 17:43:14 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 17:43:15 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 17:43:16 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 17:43:16 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 17:43:17 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 17:43:57 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 17:43:57 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 17:43:58 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 17:44:02 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 17:44:03 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 17:44:03 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 17:44:04 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 17:44:07 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 17:44:07 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 17:44:07 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 17:44:07 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 17:44:08 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 17:44:08 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 17:44:08 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 17:44:09 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 17:44:09 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 17:44:09 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 17:44:09 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 17:44:09 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 17:44:09 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 17:45:04 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 17:45:05 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 17:47:13 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 17:47:19 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 17:47:29 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 17:47:29 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 17:47:30 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 17:47:31 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 17:47:31 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 17:47:46 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 17:47:48 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 17:48:00 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 17:48:01 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 17:48:17 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 17:48:19 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 17:48:19 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 17:49:24 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 17:49:50 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 17:49:54 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 17:49:54 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 17:49:55 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 17:49:55 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 17:49:55 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 17:49:56 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 17:50:58 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 17:51:07 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 17:53:36 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 17:55:38 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 17:55:39 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 17:55:40 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 17:55:42 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 17:55:43 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 17:57:48 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 17:57:49 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 18:01:45 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 18:01:46 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 18:01:46 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 18:01:47 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 18:01:47 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 18:01:48 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 18:01:48 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 18:01:53 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 18:01:55 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 18:01:55 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 18:01:58 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 18:01:58 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 18:02:10 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 18:02:58 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 18:07:39 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 18:14:10 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 18:14:12 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 18:14:13 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 18:14:15 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 18:14:20 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 18:14:21 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 18:14:22 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 18:14:22 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 18:14:27 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 18:14:35 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 18:14:37 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+23/11/2022, 18:14:39 - INFO - Req from: Ron Shitrit (sid: Zs97hRRsRH6CXTQFrIFieQr6dO4oW_HP)
+26/11/2022, 20:14:51 - INFO - Server is running on port: 3030 
+26/11/2022, 20:47:28 - INFO - Server is running on port: 3030 
+26/11/2022, 20:48:33 - INFO - Server is running on port: 3030 
+26/11/2022, 20:48:40 - INFO - Server is running on port: 3030 
