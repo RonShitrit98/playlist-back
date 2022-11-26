@@ -8,13 +8,15 @@ async function getOauthToken(req, res) {
   const { id_token, access_token } = await googleService.getOauthToken(code);
   const user = await googleService.getGoogleUser(id_token, access_token);
   const u = {
-    username: user.email,
-    fullname: `${user.given_name} ${user.family_name}`,
+    email: user.email,
+    fullname: user.family_name
+      ? `${user.given_name} ${user.family_name}`
+      : user.given_name,
     imgUrl: user.picture,
   };
   const account = await authService.googleSignup(u);
   req.session.user = account;
-  res.redirect('http://127.0.0.1:5173/');
+  res.redirect("http://127.0.0.1:5173/");
 }
 
 module.exports = {

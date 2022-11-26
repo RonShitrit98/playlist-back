@@ -40,7 +40,7 @@ async function signup(username, password, fullname, imgUrl) {
 }
 
 async function googleSignup(user) {
-  const userExist = await userService.getByUsername(user.username);
+  const userExist = await userService.getByUsername(user.email);
   if (userExist) {
     delete userExist.password;
     return userExist;
