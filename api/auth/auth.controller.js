@@ -3,9 +3,9 @@ const logger = require("../../services/logger.service");
 
 async function login(req, res) {
   console.log(req.body);
-  const { username, password } = req.body;
+  const { email, password } = req.body;
   try {
-    const user = await authService.login(username, password);
+    const user = await authService.login(email, password);
     req.session.user = user;
 
     res.json(user);
@@ -29,7 +29,7 @@ async function signup(req, res) {
     logger.debug(
       `auth.route - new account created: ` + JSON.stringify(account)
     );
-    const user = await authService.login(username, password);
+    const user = await authService.login(email, password);
     req.session.user = user;
     console.log(req.session);
     res.json(user);

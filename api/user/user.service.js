@@ -6,6 +6,7 @@ module.exports = {
   query,
   getById,
   getByUsername,
+  getByEmail,
   remove,
   update,
   add,
@@ -35,7 +36,6 @@ async function getById(userId) {
   //   const collection = await dbService.getCollection("user");
   //   const user = await collection.findOne({ _id: ObjectId(userId) });
   //   delete user.password;
-
   //   user.givenReviews = await boardService.query({
   //     byUserId: ObjectId(user._id),
   //   });
@@ -43,7 +43,6 @@ async function getById(userId) {
   //     delete review.byUser;
   //     return review;
   //   });
-
   //   return user;
   // } catch (err) {
   //   logger.error(`while finding user ${userId}`, err);
@@ -57,6 +56,16 @@ async function getByUsername(username) {
     return user;
   } catch (err) {
     logger.error(`while finding user ${username}`, err);
+    throw err;
+  }
+}
+async function getByEmail(email) {
+  try {
+    const collection = await dbService.getCollection("user");
+    const user = await collection.findOne({ email });
+    return user;
+  } catch (err) {
+    logger.error(`while finding user ${email}`, err);
     throw err;
   }
 }

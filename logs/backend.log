@@ -1765,3 +1765,26 @@
 12/12/2022, 17:47:39 - DEBUG - auth.service - signup with username: tyrty, fullname: rtyrtyrty@gmail.com (sid: ncsVXSD-Vdi4a8s8QfTYTOPmzWGuaChc)
 12/12/2022, 17:47:39 - DEBUG - auth.route - new account created: {"username":"tyrty","password":"$2b$10$zLLykUyd54OZefGp9jvV6eLk4xB6KouDRpPQrar8xpXcvOcVzjCYi","email":"rtyrtyrty@gmail.com","imgUrl":"","_id":"63974d1b4535f55a707bb006"} (sid: ncsVXSD-Vdi4a8s8QfTYTOPmzWGuaChc)
 12/12/2022, 17:47:39 - DEBUG - auth.service - login with username: tyrty (sid: ncsVXSD-Vdi4a8s8QfTYTOPmzWGuaChc)
+12/12/2022, 18:01:40 - INFO - Server is running on port: 3030 
+12/12/2022, 18:02:21 - INFO - Server is running on port: 3030 
+12/12/2022, 18:02:34 - INFO - Server is running on port: 3030 
+12/12/2022, 18:02:37 - DEBUG - auth.service - signup with username: tyrty, fullname: rtyrtyrty@gmail.com (sid: kAjxF5PJU-fAGWdpxRQGFirE-OII5nZM)
+12/12/2022, 18:02:38 - ERROR - Failed to signup Username already taken (sid: kAjxF5PJU-fAGWdpxRQGFirE-OII5nZM)
+12/12/2022, 18:02:46 - DEBUG - auth.service - signup with username: tyrtyee, fullname: rtyrtyrty@gmail.com (sid: kAjxF5PJU-fAGWdpxRQGFirE-OII5nZM)
+12/12/2022, 18:02:46 - ERROR - Failed to signup email already taken (sid: kAjxF5PJU-fAGWdpxRQGFirE-OII5nZM)
+12/12/2022, 18:02:52 - DEBUG - auth.service - signup with username: tyrtyee, fullname: rtyeertyrty@gmail.com (sid: kAjxF5PJU-fAGWdpxRQGFirE-OII5nZM)
+12/12/2022, 18:02:52 - DEBUG - auth.route - new account created: {"username":"tyrtyee","password":"$2b$10$DmiXA.VBsbB.nI/KLekXsOl/pBWDgQgy.E37LL1ax47obn2C0yTey","email":"rtyeertyrty@gmail.com","imgUrl":"","_id":"639750ac3f3c2f1624ef7b7b"} (sid: kAjxF5PJU-fAGWdpxRQGFirE-OII5nZM)
+12/12/2022, 18:02:52 - DEBUG - auth.service - login with username: tyrtyee (sid: kAjxF5PJU-fAGWdpxRQGFirE-OII5nZM)
+12/12/2022, 18:03:17 - INFO - Server is running on port: 3030 
+12/12/2022, 18:10:35 - INFO - Server is running on port: 3030 
+12/12/2022, 18:30:24 - DEBUG - auth.service - login with username: undefined (sid: _XF534kPosHlUPUEo3ehBOkxegQ6mD5W)
+12/12/2022, 18:30:25 - ERROR - Failed to Login Error: data and hash arguments required (sid: _XF534kPosHlUPUEo3ehBOkxegQ6mD5W)
+12/12/2022, 18:31:38 - INFO - Server is running on port: 3030 
+12/12/2022, 18:32:06 - INFO - Server is running on port: 3030 
+12/12/2022, 18:32:24 - DEBUG - auth.service - login with username: ron@gmail.com (sid: PKfdbVqbGuHRNf-F919WXZpv-AAq48pA)
+12/12/2022, 18:32:25 - ERROR - Failed to Login Invalid username or password (sid: PKfdbVqbGuHRNf-F919WXZpv-AAq48pA)
+12/12/2022, 18:35:16 - DEBUG - auth.service - signup with username: ron, fullname: ron@gmail.com (sid: PKfdbVqbGuHRNf-F919WXZpv-AAq48pA)
+12/12/2022, 18:35:16 - DEBUG - auth.route - new account created: {"username":"ron","password":"$2b$10$SYs9j/g54mWB5CPGeHEoDOPwmphu48bF1aH7IWSTPV9V68duCOOwS","email":"ron@gmail.com","imgUrl":"","_id":"63975844ca1f042500fe4c2b"} (sid: PKfdbVqbGuHRNf-F919WXZpv-AAq48pA)
+12/12/2022, 18:35:16 - DEBUG - auth.service - login with username: ron@gmail.com (sid: PKfdbVqbGuHRNf-F919WXZpv-AAq48pA)
+12/12/2022, 18:36:29 - DEBUG - auth.service - login with username: ron@gmail.com (sid: PKfdbVqbGuHRNf-F919WXZpv-AAq48pA)
+12/12/2022, 18:38:22 - INFO - Server is running on port: 3030 
