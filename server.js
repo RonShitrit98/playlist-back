@@ -36,6 +36,7 @@ if (process.env.NODE_ENV === "production") {
 const authRoutes = require("./api/auth/auth.routes");
 const imgRoutes = require("./api/img/img.routes");
 const googleRoutes = require("./api/google/google.routes");
+const userRoutes = require("./api/user/user.routes");
 const { connectSockets } = require("./services/socket.service");
 
 // routes
@@ -45,6 +46,7 @@ app.all("*", setupAsyncLocalStorage);
 app.use("/api/auth", authRoutes);
 app.use("/api/img", imgRoutes);
 app.use("/api/google", googleRoutes);
+app.use("/api/user", userRoutes);
 connectSockets(http, session);
 
 // Make every server-side-route to match the index.html

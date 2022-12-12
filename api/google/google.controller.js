@@ -1,22 +1,32 @@
 const authController = require("../auth/auth.controller");
 const googleService = require("./google.service");
 const authService = require("../auth/auth.service");
-// const logger = require('../../services/logger.service')
+const logger = require("../../services/logger.service");
 
 async function getOauthToken(req, res) {
-  const code = req.query.code;
-  const { id_token, access_token } = await googleService.getOauthToken(code);
-  const user = await googleService.getGoogleUser(id_token, access_token);
-  const u = {
-    email: user.email,
-    fullname: user.family_name
-      ? `${user.given_name} ${user.family_name}`
-      : user.given_name,
-    imgUrl: user.picture,
-  };
-  const account = await authService.googleSignup(u);
-  req.session.user = account;
-  res.redirect("http://127.0.0.1:5173/");
+  try {
+    const code = req.query.code;
+    const { id_token, access_token } = await googleService.getOauthToken(code);
+    const user = await googleService.getGoogleUser(id_token, access_token);
+    const u = {
+      email: user.email,
+      fullname: user.family_name
+        ? `${user.given_name} ${user.family_name}`
+        : user.given_name,
+      imgUrl: user.picture,
+      media: {
+        movies: [],
+        music: [],
+      },
+      type: "google",
+      isActivated: false,
+    };
+    const account = await authService.googleSignup(u);
+    req.session.user = account;
+    res.redirect("http://127.0.0.1:5173/");
+  } catch (error) {
+    logger.error(error);
+  }
 }
 
 module.exports = {

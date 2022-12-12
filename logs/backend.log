@@ -1727,3 +1727,41 @@
 26/11/2022, 21:17:47 - INFO - Server is running on port: 3030 
 26/11/2022, 21:21:24 - INFO - Server is running on port: 3030 
 26/11/2022, 21:21:52 - INFO - Server is running on port: 3030 
+26/11/2022, 21:28:35 - INFO - Server is running on port: 3030 
+26/11/2022, 21:28:43 - INFO - Server is running on port: 3030 
+26/11/2022, 21:30:42 - INFO - Server is running on port: 3030 
+26/11/2022, 21:32:41 - INFO - Server is running on port: 3030 
+26/11/2022, 21:33:06 - INFO - Server is running on port: 3030 
+12/12/2022, 16:32:44 - INFO - Server is running on port: 3030 
+12/12/2022, 16:39:31 - ERROR - TypeError: Cannot destructure property 'id_token' of '(intermediate value)' as it is undefined. (sid: I3SDJatlvecsEba-8lFKT-GU_v81OVNU)
+12/12/2022, 16:39:49 - INFO - Server is running on port: 3030 
+12/12/2022, 16:39:50 - ERROR - TypeError: Cannot destructure property 'id_token' of '(intermediate value)' as it is undefined. (sid: v9RSzH7RzNzKiYuQQKLQeiLP3TF6ZZWx)
+12/12/2022, 16:39:53 - ERROR - TypeError: Cannot destructure property 'id_token' of '(intermediate value)' as it is undefined. (sid: KPDH3j431sZwkWwfvirCGM7TWh2mrcZZ)
+12/12/2022, 16:45:45 - INFO - Server is running on port: 3030 
+12/12/2022, 17:07:09 - INFO - Server is running on port: 3030 
+12/12/2022, 17:19:00 - INFO - Server is running on port: 3030 
+12/12/2022, 17:20:11 - INFO - Server is running on port: 3030 
+12/12/2022, 17:21:53 - INFO - Server is running on port: 3030 
+12/12/2022, 17:24:06 - INFO - Server is running on port: 3030 
+12/12/2022, 17:24:41 - INFO - Server is running on port: 3030 
+12/12/2022, 17:25:58 - INFO - Server is running on port: 3030 
+12/12/2022, 17:26:11 - INFO - Server is running on port: 3030 
+12/12/2022, 17:27:19 - INFO - Server is running on port: 3030 
+12/12/2022, 17:28:00 - INFO - Server is running on port: 3030 
+12/12/2022, 17:32:05 - INFO - Server is running on port: 3030 
+12/12/2022, 17:32:28 - INFO - Server is running on port: 3030 
+12/12/2022, 17:33:01 - INFO - Server is running on port: 3030 
+12/12/2022, 17:33:48 - INFO - Server is running on port: 3030 
+12/12/2022, 17:34:27 - INFO - Server is running on port: 3030 
+12/12/2022, 17:35:39 - INFO - Server is running on port: 3030 
+12/12/2022, 17:35:56 - INFO - Server is running on port: 3030 
+12/12/2022, 17:43:57 - DEBUG - auth.service - signup with username: ron, fullname:  (sid: 3nkcfPixN0NHnsxaCByqUIjRr6wp2ATs)
+12/12/2022, 17:43:57 - ERROR - Failed to signup fullname, username and password are required! (sid: 3nkcfPixN0NHnsxaCByqUIjRr6wp2ATs)
+12/12/2022, 17:45:57 - INFO - Server is running on port: 3030 
+12/12/2022, 17:46:28 - INFO - Server is running on port: 3030 
+12/12/2022, 17:46:45 - DEBUG - auth.service - signup with username: ron, fullname: ron@gmail.com (sid: ncsVXSD-Vdi4a8s8QfTYTOPmzWGuaChc)
+12/12/2022, 17:46:45 - DEBUG - auth.route - new account created: {"username":"ron","password":"$2b$10$218N9cKKTeGryZqm8.61YeIyENgfOXhvBgsaDT1cY29JNgpZfnSbG","email":"ron@gmail.com","imgUrl":"","_id":"63974ce54535f55a707bb005"} (sid: ncsVXSD-Vdi4a8s8QfTYTOPmzWGuaChc)
+12/12/2022, 17:46:45 - DEBUG - auth.service - login with username: ron (sid: ncsVXSD-Vdi4a8s8QfTYTOPmzWGuaChc)
+12/12/2022, 17:47:39 - DEBUG - auth.service - signup with username: tyrty, fullname: rtyrtyrty@gmail.com (sid: ncsVXSD-Vdi4a8s8QfTYTOPmzWGuaChc)
+12/12/2022, 17:47:39 - DEBUG - auth.route - new account created: {"username":"tyrty","password":"$2b$10$zLLykUyd54OZefGp9jvV6eLk4xB6KouDRpPQrar8xpXcvOcVzjCYi","email":"rtyrtyrty@gmail.com","imgUrl":"","_id":"63974d1b4535f55a707bb006"} (sid: ncsVXSD-Vdi4a8s8QfTYTOPmzWGuaChc)
+12/12/2022, 17:47:39 - DEBUG - auth.service - login with username: tyrty (sid: ncsVXSD-Vdi4a8s8QfTYTOPmzWGuaChc)
