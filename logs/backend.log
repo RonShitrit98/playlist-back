@@ -1875,3 +1875,26 @@
 13/12/2022, 15:50:40 - DEBUG - auth.service - login with email: ronshitrit456@gmail.com (sid: pOm2_z4DCFyRY4JSS_WHQMAA7sp_zBmM)
 13/12/2022, 15:52:07 - INFO - Server is running on port: 3030 
 13/12/2022, 15:52:10 - INFO - Server is running on port: 3030 
+13/12/2022, 16:59:22 - INFO - Server is running on port: 3030 
+13/12/2022, 17:00:02 - ERROR - cannot update user 639759637c291f07e06ed536 | MongoError: Performing an update on the path '_id' would modify the immutable field '_id' (sid: fx4yd4vitqvBHWCbAb8ChSLRpD7QquOr)
+13/12/2022, 17:00:02 - ERROR - Failed to update user | MongoError: Performing an update on the path '_id' would modify the immutable field '_id' (sid: fx4yd4vitqvBHWCbAb8ChSLRpD7QquOr)
+13/12/2022, 17:00:09 - ERROR - cannot update user 639759637c291f07e06ed536 | MongoError: Performing an update on the path '_id' would modify the immutable field '_id' (sid: fx4yd4vitqvBHWCbAb8ChSLRpD7QquOr)
+13/12/2022, 17:00:09 - ERROR - Failed to update user | MongoError: Performing an update on the path '_id' would modify the immutable field '_id' (sid: fx4yd4vitqvBHWCbAb8ChSLRpD7QquOr)
+13/12/2022, 17:00:52 - INFO - Server is running on port: 3030 
+13/12/2022, 17:02:38 - INFO - Server is running on port: 3030 
+13/12/2022, 17:02:49 - DEBUG - auth.service - login with email: ronshitrit456@gmail.com (sid: rRVNVuiNZo4WoYaqFFdfjgj3d9stX5tO)
+13/12/2022, 17:03:18 - DEBUG - auth.service - login with email: rontoastersama@gmail.com (sid: rRVNVuiNZo4WoYaqFFdfjgj3d9stX5tO)
+13/12/2022, 17:03:18 - ERROR - No user with this Email (sid: rRVNVuiNZo4WoYaqFFdfjgj3d9stX5tO)
+13/12/2022, 17:04:32 - INFO - Server is running on port: 3030 
+13/12/2022, 17:04:46 - ERROR - cannot update user 639759637c291f07e06ed536 | MongoError: Performing an update on the path '_id' would modify the immutable field '_id' (sid: SkMuzhxwLyMqs4qfl2S7BadmHrUQzPxR)
+13/12/2022, 17:04:46 - ERROR - Failed to update user | MongoError: Performing an update on the path '_id' would modify the immutable field '_id' (sid: SkMuzhxwLyMqs4qfl2S7BadmHrUQzPxR)
+13/12/2022, 17:05:03 - ERROR - cannot update user 639759637c291f07e06ed536 | MongoError: Performing an update on the path '_id' would modify the immutable field '_id' (sid: SkMuzhxwLyMqs4qfl2S7BadmHrUQzPxR)
+13/12/2022, 17:05:03 - ERROR - Failed to update user | MongoError: Performing an update on the path '_id' would modify the immutable field '_id' (sid: SkMuzhxwLyMqs4qfl2S7BadmHrUQzPxR)
+13/12/2022, 17:05:31 - INFO - Server is running on port: 3030 
+13/12/2022, 17:05:56 - INFO - Server is running on port: 3030 
+13/12/2022, 17:07:00 - INFO - Server is running on port: 3030 
+13/12/2022, 17:07:16 - ERROR - cannot update user 639759637c291f07e06ed536 | ReferenceError: userToSave is not defined (sid: 69FtR3PiNMheBi7batmOkZOynvB6-aEA)
+13/12/2022, 17:07:16 - ERROR - Failed to update user | ReferenceError: userToSave is not defined (sid: 69FtR3PiNMheBi7batmOkZOynvB6-aEA)
+13/12/2022, 17:07:50 - INFO - Server is running on port: 3030 
+13/12/2022, 17:12:19 - INFO - Server is running on port: 3030 
+13/12/2022, 17:12:41 - INFO - Server is running on port: 3030 
