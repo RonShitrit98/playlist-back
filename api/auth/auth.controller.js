@@ -2,12 +2,9 @@ const authService = require("./auth.service");
 const logger = require("../../services/logger.service");
 
 async function login(req, res) {
-  console.log(req.body);
-  const { email, password } = req.body;
   try {
-    const user = await authService.login(email, password);
+    const user = await authService.login(req.body);
     req.session.user = user;
-
     res.json(user);
   } catch (err) {
     logger.error("Failed to Login " + err);
@@ -17,21 +14,12 @@ async function login(req, res) {
 
 async function signup(req, res) {
   try {
-    const { username, password, email, imgUrl } = req.body;
-    // Never log passwords
-    // logger.debug(fullname + ', ' + username + ', ' + password)
-    const account = await authService.signup(
-      username,
-      password,
-      email,
-      imgUrl
-    );
+    const account = await authService.signup({...req.body});
     logger.debug(
       `auth.route - new account created: ` + JSON.stringify(account)
-    );
-    const user = await authService.login(email, password);
+      );
+    const user = await authService.login(req.body);
     req.session.user = user;
-    console.log(req.session);
     res.json(user);
   } catch (err) {
     logger.error("Failed to signup " + err);
@@ -41,8 +29,8 @@ async function signup(req, res) {
 
 async function logout(req, res) {
   try {
-    // req.session.destroy()
-    req.session.user = null;
+    req.session.destroy()
+    // req.session.user = null;
     res.send({ msg: "Logged out successfully" });
   } catch (err) {
     res.status(500).send({ err: "Failed to logout" });
@@ -54,7 +42,6 @@ async function loadUser(req, res) {
     res.json(req.session.user);
   } catch {}
 }
-
 
 module.exports = {
   loadUser,

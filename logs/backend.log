@@ -1795,3 +1795,83 @@
 12/12/2022, 18:57:12 - INFO - Server is running on port: 3030 
 12/12/2022, 18:57:45 - INFO - Server is running on port: 3030 
 12/12/2022, 19:15:32 - INFO - Server is running on port: 3030 
+13/12/2022, 15:06:15 - INFO - Server is running on port: 3030 
+13/12/2022, 15:10:43 - INFO - Server is running on port: 3030 
+13/12/2022, 15:11:23 - INFO - Server is running on port: 3030 
+13/12/2022, 15:16:13 - INFO - Server is running on port: 3030 
+13/12/2022, 15:17:14 - INFO - Server is running on port: 3030 
+13/12/2022, 15:17:14 - ERROR - TypeError: Cannot destructure property 'id_token' of '(intermediate value)' as it is undefined. (sid: Mz-diHgJy-_sU9sKfDBkl3xosRyHo4L4)
+13/12/2022, 15:24:32 - INFO - Server is running on port: 3030 
+13/12/2022, 15:25:29 - INFO - Server is running on port: 3030 
+13/12/2022, 15:30:26 - INFO - Server is running on port: 3030 
+13/12/2022, 15:30:40 - INFO - Server is running on port: 3030 
+13/12/2022, 15:30:52 - DEBUG - auth.service - login with email: [object Object] (sid: 80GmNK1Mb72Wb4NBAqAtuMncl_KRxR6M)
+13/12/2022, 15:31:41 - INFO - Server is running on port: 3030 
+13/12/2022, 15:31:48 - DEBUG - auth.service - login with email: [object Object] (sid: IGXXLa9q5g0539j0RUl2VmN1Au3QjMpc)
+13/12/2022, 15:32:35 - INFO - Server is running on port: 3030 
+13/12/2022, 15:34:16 - INFO - Server is running on port: 3030 
+13/12/2022, 15:34:27 - DEBUG - auth.service - login with email: ronshitrit456@gmail.com (sid: EOTBImYfeLxYzn6APiv0P9UHYMhNcV4z)
+13/12/2022, 15:35:14 - INFO - Server is running on port: 3030 
+13/12/2022, 15:35:20 - DEBUG - auth.service - login with email: ronshitrit456@gmail.com (sid: w_E74AK_j9abnuE2rSQVJt1VoFDCN_UR)
+13/12/2022, 15:35:28 - INFO - Server is running on port: 3030 
+13/12/2022, 15:35:34 - DEBUG - auth.service - login with email: ronshitrit456@gmail.com (sid: nG39APsDWiKAzcDPWYsii09FLfLAIztE)
+13/12/2022, 15:36:52 - INFO - Server is running on port: 3030 
+13/12/2022, 15:37:06 - DEBUG - auth.service - login with email: ron@gmail.com (sid: k6ZA12HKvIJoBr-mublsEb_1bcjLTj2Z)
+13/12/2022, 15:37:07 - ERROR - Failed to Login No user with this Email (sid: k6ZA12HKvIJoBr-mublsEb_1bcjLTj2Z)
+13/12/2022, 15:38:24 - DEBUG - auth.service - signup with username: ron, fullname: ron@gmail.com (sid: k6ZA12HKvIJoBr-mublsEb_1bcjLTj2Z)
+13/12/2022, 15:38:24 - DEBUG - auth.route - new account created: {"username":"ron","password":"$2b$10$D8kKmmOPtIIkEsYdBIf.nuiPra.qEOEs5sekTmEiWh955NzGgI5zW","email":"ron@gmail.com","imgUrl":"","_id":"639880506d2afa25508a7839"} (sid: k6ZA12HKvIJoBr-mublsEb_1bcjLTj2Z)
+13/12/2022, 15:38:24 - DEBUG - auth.service - login with email: undefined (sid: k6ZA12HKvIJoBr-mublsEb_1bcjLTj2Z)
+13/12/2022, 15:38:25 - ERROR - Failed to signup No user with this Email (sid: k6ZA12HKvIJoBr-mublsEb_1bcjLTj2Z)
+13/12/2022, 15:39:26 - DEBUG - auth.service - signup with username: ron, fullname: ron@gmail.com (sid: k6ZA12HKvIJoBr-mublsEb_1bcjLTj2Z)
+13/12/2022, 15:39:26 - ERROR - Failed to signup Username already taken (sid: k6ZA12HKvIJoBr-mublsEb_1bcjLTj2Z)
+13/12/2022, 15:40:09 - INFO - Server is running on port: 3030 
+13/12/2022, 15:41:37 - INFO - Server is running on port: 3030 
+13/12/2022, 15:41:39 - DEBUG - auth.service - signup with username: ron, fullname: ron@gmail.com (sid: yePR9fEt9GqFBMdDyO1bq22_KQUf6S3k)
+13/12/2022, 15:41:40 - DEBUG - auth.route - new account created: {"username":"ron","fullname":"","password":"$2b$10$to/fZ6bgCZmsIwRXrllcNuIe4XpKVfrsRxPoioIcUhqBnqzbmui3q","email":"ron@gmail.com","imgUrl":"","media":{"movies":[],"music":[]},"type":"email","isActivated":false,"_id":"639881140be33545dc052b3f"} (sid: yePR9fEt9GqFBMdDyO1bq22_KQUf6S3k)
+13/12/2022, 15:41:40 - ERROR - Failed to signup ReferenceError: email is not defined (sid: yePR9fEt9GqFBMdDyO1bq22_KQUf6S3k)
+13/12/2022, 15:42:43 - INFO - Server is running on port: 3030 
+13/12/2022, 15:42:45 - DEBUG - auth.service - signup with username: ron, fullname: ron@gmail.com (sid: U6Q0XQRyEONSwkGEZZAlPKcVcXiT72Ao)
+13/12/2022, 15:42:46 - ERROR - Failed to signup Username already taken (sid: U6Q0XQRyEONSwkGEZZAlPKcVcXiT72Ao)
+13/12/2022, 15:43:12 - DEBUG - auth.service - signup with username: ron, fullname: ron@gmail.com (sid: U6Q0XQRyEONSwkGEZZAlPKcVcXiT72Ao)
+13/12/2022, 15:43:12 - DEBUG - auth.route - new account created: {"username":"ron","fullname":"","password":"$2b$10$63TEYuKgGZJDF3YzpmlHJuhDUvhUsYBc3HLulnnqu9bGUxgPHcoTe","email":"ron@gmail.com","imgUrl":"","media":{"movies":[],"music":[]},"type":"email","isActivated":false,"_id":"6398817096b2d9493ce3db14"} (sid: U6Q0XQRyEONSwkGEZZAlPKcVcXiT72Ao)
+13/12/2022, 15:43:12 - DEBUG - auth.service - login with email: ron@gmail.com (sid: U6Q0XQRyEONSwkGEZZAlPKcVcXiT72Ao)
+13/12/2022, 15:43:12 - ERROR - Failed to signup Invalid username or password (sid: U6Q0XQRyEONSwkGEZZAlPKcVcXiT72Ao)
+13/12/2022, 15:43:17 - DEBUG - auth.service - signup with username: ron, fullname: ron@gmail.com (sid: U6Q0XQRyEONSwkGEZZAlPKcVcXiT72Ao)
+13/12/2022, 15:43:17 - ERROR - Failed to signup Username already taken (sid: U6Q0XQRyEONSwkGEZZAlPKcVcXiT72Ao)
+13/12/2022, 15:43:21 - INFO - Server is running on port: 3030 
+13/12/2022, 15:43:23 - DEBUG - auth.service - signup with username: ron, fullname: ron@gmail.com (sid: Tc72Iwy2Tp8c4VYGX7kOEjYXHrTrzdUn)
+13/12/2022, 15:43:25 - ERROR - Failed to signup Username already taken (sid: Tc72Iwy2Tp8c4VYGX7kOEjYXHrTrzdUn)
+13/12/2022, 15:43:41 - INFO - Server is running on port: 3030 
+13/12/2022, 15:43:43 - DEBUG - auth.service - signup with username: ron, fullname: ron@gmail.com (sid: XQeO2v4I5Cy8c0pG2Wc4-rKsGqXBIL0D)
+13/12/2022, 15:43:44 - DEBUG - auth.route - new account created: {"username":"ron","fullname":"","password":"$2b$10$QmPWHsoC.dQvYJaWKcAGzOEWcsUdvgOt3BRwUqh3wFqYC8cCXGPGy","email":"ron@gmail.com","imgUrl":"","media":{"movies":[],"music":[]},"type":"email","isActivated":false,"_id":"6398819070e9e016507e2260"} (sid: XQeO2v4I5Cy8c0pG2Wc4-rKsGqXBIL0D)
+13/12/2022, 15:43:44 - DEBUG - auth.service - login with email: ron@gmail.com (sid: XQeO2v4I5Cy8c0pG2Wc4-rKsGqXBIL0D)
+13/12/2022, 15:43:44 - ERROR - Failed to signup Invalid username or password (sid: XQeO2v4I5Cy8c0pG2Wc4-rKsGqXBIL0D)
+13/12/2022, 15:44:45 - INFO - Server is running on port: 3030 
+13/12/2022, 15:44:51 - DEBUG - auth.service - signup with username: ronn, fullname: ronn@gmail.com (sid: 4N8vpUHwh8rhu8kjuxccsTKtVuxh3_s4)
+13/12/2022, 15:44:52 - DEBUG - auth.route - new account created: {"username":"ronn","fullname":"","password":"$2b$10$2DSmxePGZobcSbM0tCeUtO0XZzHy/UuRcZS0YZtWXQIQSphk5.5s.","email":"ronn@gmail.com","imgUrl":"","media":{"movies":[],"music":[]},"type":"email","isActivated":false,"_id":"639881d44c2d8b1a0024a5b9"} (sid: 4N8vpUHwh8rhu8kjuxccsTKtVuxh3_s4)
+13/12/2022, 15:44:52 - DEBUG - auth.service - login with email: ronn@gmail.com (sid: 4N8vpUHwh8rhu8kjuxccsTKtVuxh3_s4)
+13/12/2022, 15:44:53 - ERROR - Failed to signup Invalid username or password (sid: 4N8vpUHwh8rhu8kjuxccsTKtVuxh3_s4)
+13/12/2022, 15:45:15 - INFO - Server is running on port: 3030 
+13/12/2022, 15:45:19 - DEBUG - auth.service - signup with username: ronnn, fullname: ronnn@gmail.com (sid: uyU37QhD-bFRAqcrlL32afWbGFPp9qn-)
+13/12/2022, 15:45:21 - DEBUG - auth.route - new account created: {"username":"ronnn","fullname":"","password":"$2b$10$.zb67Yi2U.NZ4aBzwUf8z.fyvQyj.e9VDmU7RLmtURw2sUS/.iima","email":"ronnn@gmail.com","imgUrl":"","media":{"movies":[],"music":[]},"type":"email","isActivated":false,"_id":"639881f0c37b59054084f9fb"} (sid: uyU37QhD-bFRAqcrlL32afWbGFPp9qn-)
+13/12/2022, 15:45:21 - DEBUG - auth.service - login with email: ronnn@gmail.com (sid: uyU37QhD-bFRAqcrlL32afWbGFPp9qn-)
+13/12/2022, 15:45:21 - ERROR - Failed to signup Invalid username or password (sid: uyU37QhD-bFRAqcrlL32afWbGFPp9qn-)
+13/12/2022, 15:45:47 - INFO - Server is running on port: 3030 
+13/12/2022, 15:45:54 - DEBUG - auth.service - signup with username: ronnnn, fullname: ronnnn@gmail.com (sid: MFWj-oUqc38ym7jCjI4PWrqoG9YPIEGE)
+13/12/2022, 15:45:54 - DEBUG - auth.route - new account created: {"username":"ronnnn","fullname":"","password":"$2b$10$BwKsxRi5HHot7MuLOBaXbOBGpics0.eNvEDhcCgZFoXQG0V2Zz.7S","email":"ronnnn@gmail.com","imgUrl":"","media":{"movies":[],"music":[]},"type":"email","isActivated":false,"_id":"63988212e6d22205b8f839d1"} (sid: MFWj-oUqc38ym7jCjI4PWrqoG9YPIEGE)
+13/12/2022, 15:45:54 - DEBUG - auth.service - login with email: ronnnn@gmail.com (sid: MFWj-oUqc38ym7jCjI4PWrqoG9YPIEGE)
+13/12/2022, 15:45:54 - ERROR - Failed to signup Invalid username or password (sid: MFWj-oUqc38ym7jCjI4PWrqoG9YPIEGE)
+13/12/2022, 15:46:20 - INFO - Server is running on port: 3030 
+13/12/2022, 15:46:29 - DEBUG - auth.service - signup with username: ronnnnn, fullname: ronnnnn@gmail.com (sid: Oo83ikdAyOeAnmIpvzGB5JmOyM7QVCp7)
+13/12/2022, 15:46:29 - DEBUG - auth.route - new account created: {"username":"ronnnnn","fullname":"","password":"$2b$10$Gb.62BDRNcPYrNDdbLnASO.fbisXLOckX0ZT6Gns2XePxepcJhtMC","email":"ronnnnn@gmail.com","imgUrl":"","media":{"movies":[],"music":[]},"type":"email","isActivated":false,"_id":"63988235dc1677361826f2ff"} (sid: Oo83ikdAyOeAnmIpvzGB5JmOyM7QVCp7)
+13/12/2022, 15:46:29 - DEBUG - auth.service - login with email: ronnnnn@gmail.com (sid: Oo83ikdAyOeAnmIpvzGB5JmOyM7QVCp7)
+13/12/2022, 15:47:24 - DEBUG - auth.service - login with email: ronshitrit456@gmail.com (sid: Oo83ikdAyOeAnmIpvzGB5JmOyM7QVCp7)
+13/12/2022, 15:47:34 - INFO - Server is running on port: 3030 
+13/12/2022, 15:47:56 - INFO - Server is running on port: 3030 
+13/12/2022, 15:48:06 - INFO - Server is running on port: 3030 
+13/12/2022, 15:48:12 - INFO - Server is running on port: 3030 
+13/12/2022, 15:49:08 - DEBUG - auth.service - login with email: rontoastersama@gmail.com (sid: IddLu3diuTvjiRck8qZjyD1xE3uoaBCS)
+13/12/2022, 15:49:09 - ERROR - No user with this Email (sid: IddLu3diuTvjiRck8qZjyD1xE3uoaBCS)
+13/12/2022, 15:50:40 - DEBUG - auth.service - login with email: ronshitrit456@gmail.com (sid: pOm2_z4DCFyRY4JSS_WHQMAA7sp_zBmM)
+13/12/2022, 15:52:07 - INFO - Server is running on port: 3030 
+13/12/2022, 15:52:10 - INFO - Server is running on port: 3030 

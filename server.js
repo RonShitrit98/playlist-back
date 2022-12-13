@@ -12,6 +12,7 @@ const session = expressSession({
   resave: true,
   saveUninitialized: true,
   // cookie: { secure: false },
+  maxAge: 30 * 24 * 60 * 60 * 1000
 });
 app.use(express.json({ limit: "25mb" }));
 app.use(session);

@@ -6,25 +6,33 @@ const logger = require("../../services/logger.service");
 async function getOauthToken(req, res) {
   try {
     const code = req.query.code;
+    console.log(req.query.state);
     const { id_token, access_token } = await googleService.getOauthToken(code);
     const user = await googleService.getGoogleUser(id_token, access_token);
-    const u = {
-      username: null,
-      email: user.email,
-      fullname: user.family_name
-        ? `${user.given_name} ${user.family_name}`
-        : user.given_name,
-      imgUrl: user.picture,
-      media: {
-        movies: [],
-        music: [],
-      },
-      type: "google",
-      isActivated: false,
-    };
-    const account = await authService.googleSignup(u);
-    req.session.user = account;
-    res.redirect("http://127.0.0.1:5173/#/auth/create/");
+    console.log(user);
+    if (req.query.state === "login") {
+      const account = await authService.login(user, "google");
+      req.session.user = account;
+      res.redirect("http://127.0.0.1:5173/#/");
+    } else {
+      const u = {
+        username: null,
+        email: user.email,
+        fullname: user.family_name
+          ? `${user.given_name} ${user.family_name}`
+          : user.given_name,
+        imgUrl: user.picture,
+        media: {
+          movies: [],
+          music: [],
+        },
+        type: "google",
+        isActivated: false,
+      };
+      const account = await authService.googleSignup(u);
+      req.session.user = account;
+      res.redirect("http://127.0.0.1:5173/#/auth/create/");
+    }
   } catch (error) {
     logger.error(error);
   }
