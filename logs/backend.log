@@ -1898,3 +1898,24 @@
 13/12/2022, 17:07:50 - INFO - Server is running on port: 3030 
 13/12/2022, 17:12:19 - INFO - Server is running on port: 3030 
 13/12/2022, 17:12:41 - INFO - Server is running on port: 3030 
+13/12/2022, 17:37:26 - INFO - Server is running on port: 3030 
+13/12/2022, 17:38:10 - INFO - Server is running on port: 3030 
+13/12/2022, 17:38:21 - INFO - Server is running on port: 3030 
+13/12/2022, 17:38:31 - INFO - Server is running on port: 3030 
+13/12/2022, 17:38:45 - INFO - Server is running on port: 3030 
+13/12/2022, 17:38:57 - INFO - Server is running on port: 3030 
+13/12/2022, 17:40:12 - INFO - Server is running on port: 3030 
+13/12/2022, 17:40:20 - INFO - Server is running on port: 3030 
+13/12/2022, 17:40:58 - INFO - Server is running on port: 3030 
+13/12/2022, 17:41:05 - INFO - Server is running on port: 3030 
+13/12/2022, 17:42:28 - INFO - Server is running on port: 3030 
+13/12/2022, 17:43:09 - INFO - Server is running on port: 3030 
+13/12/2022, 17:43:20 - INFO - Server is running on port: 3030 
+13/12/2022, 17:48:31 - INFO - Server is running on port: 3030 
+13/12/2022, 17:48:38 - INFO - Server is running on port: 3030 
+13/12/2022, 17:49:13 - INFO - Server is running on port: 3030 
+13/12/2022, 17:49:24 - INFO - Server is running on port: 3030 
+13/12/2022, 17:50:32 - INFO - Server is running on port: 3030 
+13/12/2022, 17:50:52 - DEBUG - auth.service - login with email: ronshitrit456@gmail.com (sid: bxsrncwGGjPXnsdRZr1J6WoEfOT7kzMG)
+13/12/2022, 18:06:40 - ERROR - while finding user check | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (sid: jRagvVTxw8Qn1htqUwAxMW6Xr_PjXydp)
+13/12/2022, 18:06:40 - ERROR - Failed to get user | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (sid: jRagvVTxw8Qn1htqUwAxMW6Xr_PjXydp)
