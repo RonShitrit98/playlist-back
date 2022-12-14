@@ -48,8 +48,18 @@ async function googleSignup(user) {
   return userService.add(user);
 }
 
+async function spotifySignup(user) {
+  const userExist = await userService.getByEmail(user.email);
+  if (userExist) {
+    delete userExist.password;
+    return userExist;
+  }
+  return userService.add(user);
+}
+
 module.exports = {
   signup,
   login,
   googleSignup,
+  spotifySignup,
 };
