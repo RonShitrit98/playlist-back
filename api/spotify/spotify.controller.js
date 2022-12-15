@@ -28,6 +28,14 @@ async function getAuthToken(req, res) {
     };
     const account = await authService.spotifySignup(user);
     req.session.user = account;
+    res.cookie("spotify_refresh_token", tokens.refresh_token, {
+      httpOnly: false,
+    });
+    res.cookie("spotify_access_token", tokens.access_token, {
+      httpOnly: false,
+      // maxAge: 300000,
+    });
+
     res.redirect("http://127.0.0.1:5173/#/auth/create/");
   } catch (error) {
     console.log(error);
