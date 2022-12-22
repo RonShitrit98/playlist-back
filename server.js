@@ -39,6 +39,7 @@ const imgRoutes = require("./api/img/img.routes");
 const googleRoutes = require("./api/google/google.routes");
 const userRoutes = require("./api/user/user.routes");
 const spotifyRoutes = require("./api/spotify/spotify.routes");
+const postRoutes = require("./api/post/post.routes");
 const { connectSockets } = require("./services/socket.service");
 
 // routes
@@ -50,6 +51,7 @@ app.use("/api/img", imgRoutes);
 app.use("/api/google", googleRoutes);
 app.use("/api/user", userRoutes);
 app.use("/api/spotify", spotifyRoutes);
+app.use("/api/post", postRoutes);
 connectSockets(http, session);
 
 // Make every server-side-route to match the index.html
